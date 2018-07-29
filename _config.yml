@@ -1,8 +1,4 @@
 name: David Stribling, Product Designer
 markdown: kramdown
 permalink: /blog/:title
-collections:
-- products
-  output: true
-  permalink: /portfolio/:name
   
