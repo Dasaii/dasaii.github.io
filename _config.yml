@@ -1,4 +1,17 @@
+#Site Settings
+title: David's Portfolio
+email: d@saii.co.uk
+description: David Stribling designs products
+baseurl: ""
+url: https://davidstribling.com
+twitter_username: dasaii
+instagram_username: dasaii
+
 name: David Stribling, Product Designer
+
+
+#Project URL
+permalink: /work/:title
+
+#Build Settings
 markdown: kramdown
-permalink: /blog/:title
-  
