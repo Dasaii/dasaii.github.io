@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Bupa Boost"
+title: Bupa Boost
 date: 2018-07-29
 description: Improving Wellness
 thumbnail:
-
+year: 2014-2016
 
 ---
-
-## Bupa Boost
 
 ### TL;DR
 Words

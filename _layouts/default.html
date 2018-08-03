@@ -6,14 +6,12 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/portfolio">Portfolio</a></li>
-				<li><a href="/contact">Work with me</a></li>
-	    		</ul>
-			</nav>
+			<div class="nav-left">
+				<img src="home.png" alt="Home" />
+				<h2>David Stribling</h2>
+			</div>
+			{% include nav.html %}
+
 			<div class="container">
 
 			{{ content }}
