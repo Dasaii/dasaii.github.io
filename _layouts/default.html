@@ -4,24 +4,11 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700" rel="stylesheet">
 		</head>
 		<body>
-			<div class="nav-left">
-				<img src="home.png" alt="Home" />
-				<h2>David Stribling</h2>
-			</div>
-			{% include nav.html %}
-
-			<div class="container">
 
 			{{ content }}
 
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:d@saii.co.uk">email</a></li>
-	        		<li><a href="https://twitter.com/dasaii">@Dasaii</a></li>
-				</ul>
-			</footer>
 		</body>
 	</html>

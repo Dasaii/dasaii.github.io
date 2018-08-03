@@ -1,0 +1,85 @@
+---
+---
+
+$font-stack: 'Open Sans', 'Apple Color Emoji', Sans-Serif;
+$primary-color: #333;
+
+html, body,
+blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family: $font-stack;
+  color: #000;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin-top: 0;
+  font-weight: 700;
+}
+
+nav {
+  float: right;
+  margin-top:30px;
+  margin-right: 20px;
+
+  ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+
+  a {
+    font-weight:600;
+    color: #666;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+.text {
+  float: left;
+  width:33%;
+  height:100%;
+
+  h1 {
+    font-size: 4.5vw;
+    margin-top:30px;
+    margin-left: 30px;
+  }
+
+  h3 {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 30px;
+    margin-left:30px;
+  }
+
+}
+
+.pixelhome {
+  float: left;
+  width: 66%;
+  height: 100%;
+  position: relative;
+
+  img {
+    position: absolute;
+    max-width: 100%;
+  }
+
+  .pixelhomeimg {
+    top:-20px;
+  }
+
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
