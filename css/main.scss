@@ -43,6 +43,7 @@ nav {
     width:100%;
     position: fixed;
     bottom:0;
+    left:0;
     top:auto;
     right: auto;
     float:none;
@@ -57,8 +58,16 @@ nav {
     margin-right: 20px;
 
     @media screen and (max-width: $break-small) {
+      box-sizing: border-box;
       width:33.3%;
       margin-right: 0;
+      border-right: 1px #ccc solid;
+    }
+  }
+
+  ul li:last-child {
+    @media screen and (max-width: $break-small) {
+      border-right: none;
     }
   }
 
@@ -76,7 +85,6 @@ nav {
         padding-bottom: 20px;
         text-align: center;
         vertical-align: middle;
-        border-right: 1px #ccc solid;
 }
 
   }
