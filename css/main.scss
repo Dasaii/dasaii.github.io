@@ -88,7 +88,7 @@ nav {
 
 .text {
   width: 33.33%;
-  height: 100vh;
+  height: 100%;
 
   @media screen and (max-width: $break-small) {
     width: 100%;
@@ -113,7 +113,7 @@ nav {
 
   h3 {
     font-size: 18px;
-    position: absolute;
+    position: fixed;
     bottom: 30px;
     left:30px;
     margin-bottom: 0px;
