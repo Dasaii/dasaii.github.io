@@ -5,6 +5,7 @@ $font-stack: 'Open Sans', 'Apple Color Emoji', Sans-Serif;
 $primary-color: #333;
 $break-small: 320px;
 $break-large: 1200px;
+$break-small: 600px;
 
 html, body,
 blockquote, pre, hr,
@@ -38,15 +39,46 @@ nav {
   top: 25px;
   right: 15px;
 
-  ul li {
-    display: inline;
-    margin-right: 20px;
+  @media screen and (max-width: $break-small) {
+    width:100%;
+    position: absolute;
+    bottom:0;
+    top:auto;
+    right: auto;
+    float:none;
+    border-top: 1px #ccc solid;
+    background: #fff;
+
   }
+
+  ul li {
+    display: inline-block;
+    margin:0;
+    margin-right: 20px;
+
+    @media screen and (max-width: $break-small) {
+      width:33.3%;
+      margin-right: 0;
+    }
+  }
+
+
 
   a {
     font-weight:600;
     color: #666;
     text-decoration: none;
+
+      @media screen and (max-width: $break-small) {
+        display: block;
+        width:100%;
+        padding-top:20px;
+        padding-bottom: 20px;
+        text-align: center;
+        vertical-align: middle;
+        border-right: 1px #ccc solid;
+}
+
   }
 
   a:hover {
@@ -58,14 +90,23 @@ nav {
   width: 33.33%;
   height: 100vh;
 
+  @media screen and (max-width: $break-small) {
+    width: 100%;
+  }
+
   h1 {
     font-size: 4.5vw;
     position: relative;
     top: 25px;
     left: 30px;
+    z-index: 4;
 
     @media screen and (min-width: $break-large) {
       font-size:58px;
+    }
+
+    @media screen and (max-width: $break-small) {
+      font-size: 8.5vw;
     }
 
   }
@@ -77,6 +118,16 @@ nav {
     left:30px;
     margin-bottom: 0px;
     z-index: 4;
+
+    @media screen and (max-width: $break-small) {
+      position: relative;
+      bottom:auto;
+      font-size: 14px;
+      color: #666;
+      top:30px;
+
+    }
+
   }
 
 }
@@ -91,20 +142,37 @@ nav {
   //background-color: #ccc;
   z-index: 1;
 
+  @media screen and (max-aspect-ratio: 4/5)  // portrait devices
+  {
+    width:100%;
+    left:0%;
+  }
+
   img {
     position: absolute;
     width: 100%;
     height: auto;
     top: 50%;
     transform: translateY(-40%);
+
+    @media screen and (max-width: $break-small) {
+      transform: translateY(-30%);
+    }
   }
 
   .pixelhomeimg {
     transform:translateY(-45%);
     -webkit-animation: float 2s infinite ease-in-out alternate;
-  }
 
+    @media screen and (max-width: $break-small) {
+      transform: translateY(-35%);
+      -webkit-animation: float-mobile 2s infinite ease-in-out alternate;
+    }
+
+  }
 }
+
+
 
 @-webkit-keyframes float {
   from {
@@ -112,5 +180,14 @@ nav {
   }
   to {
       -webkit-transform: translateY(-46%);
+  }
+}
+
+@-webkit-keyframes float-mobile {
+  from {
+      -webkit-transform: translateY(-33%);
+  }
+  to {
+      -webkit-transform: translateY(-36%);
   }
 }
