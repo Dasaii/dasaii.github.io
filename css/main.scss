@@ -94,17 +94,23 @@ h1,h2,h3,h4,h5,h6 {
   margin-right:auto;
   margin-top:50px;
 
+  @media screen and (max-width: $break-small) {
+    //padding:20px;
+    margin-top:10px;
+  }
+
   h1 {
     font-size:42px;
+    margin-top:-10px;
     margin-bottom:-10px;
   }
 
 
-  @media screen and (max-width: $break-small) {
-    padding:20px;
-    margin-top:-10px;
-  }
+}
 
+.text_container {
+  padding:20px;
+  margin-top: -10px;
 }
 
 nav {
@@ -291,6 +297,11 @@ nav {
 
 // PORTFOLIO
 
+.portfolio-header {
+  margin-left:20px;
+  margin-right:20px;
+}
+
 .products {
   display: flex;
   flex-flow: row wrap;
@@ -298,6 +309,11 @@ nav {
 
   @media screen and (max-width: 840px) {
     margin:5px;
+    padding:5px;
+  }
+
+  @media screen and (max-width: $break-small) {
+    flex-flow: column wrap;
   }
 
 
@@ -309,6 +325,8 @@ nav {
     @media screen and (max-width: 840px) {
       margin:10px;
     }
+
+
 
     .thumbnail {
       width: 100%;
