@@ -3,9 +3,19 @@ layout: product
 title: Cool products I've worked on 🤖
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<div class="products">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+			<a href="{{ post.url }}" title="{{ post.title }}">
+				<div class="thumbnail {{ post.css }}">
+					<img src="{{ post.thumbnail }}" alt="{{ post.title }}" />
+				</div>
+				<h3>{{ post.title }}</h3>
+				<div class="product-description">{{ post.description }}</div>
+			</a>
 	  {% endfor %}
-	</ul>
+	</div>
+	<div class="more">
+		<h3>Want more?</h3>
+		<div class="description">Contact me for my full portfolio</div>
+	</div>
