@@ -55,7 +55,7 @@ h1,h2,h3,h4,h5,h6 {
   overflow: auto;
   padding-bottom:15px;
 
-  .nav-left {
+  a.nav-left {
     display: block;
     float: left;
     /* width: 100%; */
@@ -69,16 +69,21 @@ h1,h2,h3,h4,h5,h6 {
     }
 
     h2 {
-    float: left;
-    font-size: 16px;
-    font-weight: 600;
-    color: #666;
-    margin-top: 10px;
-    margin-left: 20px;
+      float: left;
+      font-size: 16px;
+      font-weight: 600;
+      color: #666;
+      margin-top: 10px;
+      margin-left: 20px;
     }
   }
 
+  a.nav-left:hover {
 
+    h2 {
+      border-bottom: 2px solid #ccc;
+    }
+  }
 
 }
 
@@ -94,7 +99,7 @@ h1,h2,h3,h4,h5,h6 {
     margin-bottom:-10px;
   }
 
-  
+
   @media screen and (max-width: $break-small) {
     padding:20px;
     margin-top:-10px;
@@ -163,7 +168,12 @@ nav {
   }
 
   a:hover {
-    text-decoration: underline;
+    border-bottom: 2px solid #ccc;
+  }
+
+  a.active {
+    color: #000;
+    border-bottom: 2px solid #000;
   }
 }
 
@@ -286,18 +296,112 @@ nav {
   flex-flow: row wrap;
   margin: -20px;
 
+  @media screen and (max-width: 840px) {
+    margin:5px;
+  }
+
+
    a {
     flex: 1 1 43.336%;
     margin: 20px;
     text-decoration: none;
 
+    @media screen and (max-width: 840px) {
+      margin:10px;
+    }
 
     .thumbnail {
       width: 100%;
       height: 250px;
       background: #ccc;
       border-radius: 10px;
+
+      img {
+        position: relative;
+        display: block;
+        height: 104%;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        bottom: 10px;
+      }
     }
+
+    .play {
+      background:#eee;
+
+      img {
+        width:250px;
+        height: auto;
+        bottom:-65px;
+      }
+    }
+
+    .totem {
+      background:#FF7700;
+
+      img {
+        left:-20px;
+      }
+    }
+
+    .aloebud {
+      background:#53CDC8;
+
+      img {
+        width: 110px;
+        height: auto;
+        bottom:-65px;
+      }
+    }
+
+    .bupaboost {
+      background:#04B8FC;
+
+      img {
+        height: 90%;
+        top:25px;
+      }
+    }
+
+    .digitalfitness {
+      background:#E33314;
+    }
+
+    .assethunt {
+      background:#04D4FC;
+
+      img {
+        height: 90%;
+        top:25px;
+      }
+    }
+
+    .popjam {
+      background:#8D0BB0;
+    }
+
+    .femsplain {
+      background:#FFCCDF;
+    }
+
+    .moshi {
+      background:#DAF5FF;
+    }
+
+    .lasuni {
+      background:#53C816;
+      overflow: hidden;
+
+      img {
+        width:100%;
+        height: auto;
+      }
+
+    }
+
+
 
     h3 {
       font-size:28px;
