@@ -1,23 +1,25 @@
 ---
 layout: default
 ---
-<div class="nav-left">
-  <a href="/">
-    <img src="../images/home.png" alt="Home" />
-  </a>
-  <h2>David Stribling</h2>
+<div class="home_container">
+  <div class="nav_container">
+    <a href="/" class="nav-left">
+      <img src="../images/home.png" alt="Home" />
+      <h2>David Stribling</h2>
+    </a>
+  {% include nav.html %}
+  </div>
+
+  <div class="content_container">
+
+  {{ content }}
+
+  </div><!-- /.container -->
+
+  <footer>
+      <ul>
+          <li><a href="mailto:d@saii.co.uk">email</a></li>
+          <li><a href="https://twitter.com/dasaii">@Dasaii</a></li>
+    </ul>
+  </footer>
 </div>
-{% include nav.html %}
-
-<div class="container">
-
-{{ content }}
-
-</div><!-- /.container -->
-
-<footer>
-    <ul>
-        <li><a href="mailto:d@saii.co.uk">email</a></li>
-        <li><a href="https://twitter.com/dasaii">@Dasaii</a></li>
-  </ul>
-</footer>
