@@ -12,6 +12,7 @@ year: 2014-2016
 ### TL;DR
 Words
 
+
 ### Role
 What my role was blah blah
 
