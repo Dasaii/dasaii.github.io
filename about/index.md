@@ -22,6 +22,8 @@ As we grew up our projects got more ambitious and one of those projects grew int
 Lasuni taught me a lot, but it also taught me how much I didn't know. I had the creative bug, and wanted to learn as much as I could from actual professionals - that's when I found Mind Candy.
 
 #### Mind Candy
+![Mind Candy  - 2013](/images/mindcandy.jpg "Mind Candy - 2013")
+
 While on holiday in the US, I created a hand-crafted application to Mind Candy and emailed it to recruitment and the CEO. Thankfully it was well received with the CEO tweeting about my efforts -  landing me an interview at Mind Candy but also at 2 other start-ups. I was given me the opportunity to work on a variety of projects from the core game and safety tools to the mobile-first future of Moshi. In my last year I led UX and later product management for a new mobile, creative, community - PopJam, where I met Marcus and Dan.
 
 #### Play
@@ -32,7 +34,7 @@ Working on mobile games, we realised how powerful game mechanics can be in drivi
 With our first client we designed, built, shipped and ran Bupa Boost as a live service. With a lot of hard work we kept growing the business and we used our learnings of how these huge businesses work to create Totem, our attempt to productise good company culture. Over my 4 years there I grew my product team to 8 super talented individuals, and we designed and shipped tens of products for some of the biggest companies in the UK.
 
 #### Now
-On the 27th June 2018, I took the heart-wrenching decision to leave Play behind, and I left the UK to travel with my boyfriend Remi. We're currently somewhere in SE Asia and will be arriving in Australia towards the end of the year. You can follow along with my travels on [Twitter](https://twitter.com/dasaii) or [Instagram](https://instagram.com/dasaii) if you'd like.
+On the 27th June 2018, I took the heart-wrenching decision to leave Play, and I left the UK to travel with my boyfriend, Remi. We're currently somewhere in SE Asia and will be arriving in Australia towards the end of the year. You can follow along with my travels on [Twitter](https://twitter.com/dasaii) or [Instagram](https://instagram.com/dasaii) if you'd like.
 
 #### And outside of work?
 Well, Im currently full-time travelling/homeless - so there's not much difference! But while not making stuff, I love to travel (clearly), take bad photos on my phone, run, watch far too much Netflix. I'm still a tragic 90s kid (waiting on my letter to Hogwarts) and get my games fix on the go with my Nintendo Switch.
