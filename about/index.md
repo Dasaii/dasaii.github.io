@@ -6,18 +6,25 @@ title: A little bit about me 👀
 <div class="text_container">
   <h1>{{ page.title }}</h1>
 
-  <div markdown="1">
-
+<div class="flex_container">
+<div class="two-third" markdown="1">
 Hello 👋🏼! I'm David , a travelling product designer from the UK. I specialise in creating digital products (apps and/or web) that help people be their best selves. Whether that's helping to [improve someone's wellbeing](/work/bupaboost), save some extra money, [learn a new skill](/work/digitalfitness) or [just have fun](/work/moshi). I truly believe in the power of technology to have a positive impact in people's lives.
 
 My background is in games and User Experience (UX), designing products that are simple for people to use, but most importantly, help them to achieve their goals. But what I really care about is shipping cool things, testing new ideas and making a difference to people's lives. You can see a few of the products I've worked on in my [Portfolio](/portfolio).
+</div>
+<div class="one-third">
+<p><img src="/images/me.jpg" alt="It me!" /></p>
+</div>
+</div>
+
+<div markdown="1">
 
 ### History
 
 #### The early days
 I've always been obsessed with games and technology, but it was getting access to the internet that made me realise that I could not just play games, but I could make them too. Online I met other enterprising teens who wanted to make things, forming a community where we'd share our ideas, creations and ultimately all our failures!
 
-As we grew up our projects got more ambitious and one of those projects grew into Lasuni. With my internet friends Jason Bryan and Amber Discko: we designed, shipped, marketed and grew an online community. We managed to grow a highly engaged audience, and it helped me to fund my Computer Science degree without any student loans.
+As we grew up our projects got more ambitious and one of those projects grew into <a href="/work/lasuni">Lasuni</a>. With my internet friends Jason Bryan and Amber Discko: we designed, shipped, marketed and grew an online community. We managed to grow a highly engaged audience, and it helped me to fund my Computer Science degree without any student loans.
 
 Lasuni taught me a lot, but it also taught me how much I didn't know. I had the creative bug, and wanted to learn as much as I could from actual professionals - that's when I found Mind Candy.
 
