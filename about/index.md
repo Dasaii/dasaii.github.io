@@ -83,7 +83,7 @@ I like making stuff. I'm also generally a bit of a nerd.
     </p><p>
       Over the years he provided mentoring and training to his team and has left behind a product team that follow his no nonsense methodology and appetite for excellence."
     </p>
-    <img />
+    <img src="/images/people/dan_atherton.jpg"/>
     <h4>Daniel Atherton</h4>
     <h5>CTO, Play</h5>
   </div>
@@ -93,7 +93,7 @@ I like making stuff. I'm also generally a bit of a nerd.
     </p><p>
     Mid table Mario Kart player..."
     </p>
-    <img />
+    <img src="/images/people/jez_fischer.jpg"/>
     <h4>Jez Fischer</h4>
     <h5>Head of Creative, Play</h5>
   </div>
@@ -101,7 +101,7 @@ I like making stuff. I'm also generally a bit of a nerd.
   <p>
     "David did an excellent job for us on a sprint zero for a piece of culture work. I think it goes without saying that all of his technical skills are great and that he showed a real care for his work. What was important to Mars was that we found technology partners who understood people too- and David is great at this, taking a real interest in the diverse lives of our Associates and wrapping all of that insight into the app."
   </p>
-  <img />
+  <img src="/images/people/damian_welch.jpg"/>
   <h4>Damian Welch</h4>
   <h5>Global Culture and Engagement Director, Mars</h5>
   </div>
@@ -109,7 +109,7 @@ I like making stuff. I'm also generally a bit of a nerd.
   <p>
     "It is rare to come across a standout like David. I had the pleasure working with him on various projects and teams at Mind Candy and witnessed him expertly design products and lead teams to high performance. His distinct creativity combined with acute product instincts made him a very effective Product Manager and UX designer. David has a bright future ahead of him and I look forward to seeing what he produces next!"
   </p>
-  <img />
+  <img src="/images/people/tony_yang.jpg"/>
   <h4>Tony Yang</h4>
   <h5>Director of Product Management, Mind Candy</h5>
   </div>
@@ -119,7 +119,7 @@ I like making stuff. I'm also generally a bit of a nerd.
   </p><p>
   David makes work fun. I hope I get the pleasure of working with David again! 👍"
   </p>
-  <img />
+  <img src="/images/people/julien_cook.jpg"/>
   <h4>Julien Cook</h4>
   <h5>Head of UX, Play</h5>
   </div>
@@ -127,7 +127,7 @@ I like making stuff. I'm also generally a bit of a nerd.
   <p>
     "I have worked with David on a number of different projects and clients, and have always found him a pleasure to work with. David is able to quickly grasp business problems, and come up with novel and interesting design ideas that address these. David is a consummate professional - organised, diligent and hard working, and has a real 'can do' attitude. I wouldn't hesitate to recommend David for any product manager/UX design/scrum master roles - and hope to work with him again in the future. Many thanks David!"
   </p>
-  <img />
+  <img src="/images/people/david_fowler.jpg"/>
   <h4>David Fowler</h4>
   <h5>Director, KPMG</h5>
   </div>
@@ -137,7 +137,7 @@ I like making stuff. I'm also generally a bit of a nerd.
   <p>
   One of his core strengths is articulating his vision of a particular product and getting early stakeholder buy-in and support which is key to the success of any project!   I’ve personally learned so much from him over the last few years and he really helped mentor me to be a better and more well-rounded designer."
   </p>
-  <img />
+  <img src="/images/people/michael_sarpong.jpg"/>
   <h4>Michael Sarpong</h4>
   <h5>Senior Designer, Play</h5>
 
@@ -149,7 +149,7 @@ I like making stuff. I'm also generally a bit of a nerd.
   <p>
   But he is way more than just a great Team Manager - David proved to be a great team player, always supporting not only people in his team but everyone at Play."
   </p>
-  <img />
+  <img src="/images/people/daniela_picao.jpg"/>
   <h4>Daniela Picão</h4>
   <h5>Designer, Play</h5>
   </div>
