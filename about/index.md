@@ -24,7 +24,7 @@ My background is in games and User Experience (UX), designing products that are 
 #### The early days
 I've always been obsessed with games and technology, but it was getting access to the internet that made me realise that I could not just play games, but I could make them too. Online I met other enterprising teens who wanted to make things, forming a community where we'd share our ideas, creations and ultimately all our failures!
 
-As we grew up our projects got more ambitious and one of those projects grew into <a href="/work/lasuni">Lasuni</a>. With my internet friends Jason Bryan and Amber Discko: we designed, shipped, marketed and grew an online community. We managed to grow a highly engaged audience, and it helped me to fund my Computer Science degree without any student loans.
+As we grew up our projects got more ambitious and one of those projects grew into [Lasuni](/work/lasuni). With my internet friends [Jason Bryan](http://) and Amber Discko: we designed, shipped, marketed and grew an online community. We managed to grow a highly engaged audience, and it helped me to fund my Computer Science degree without any student loans.
 
 Lasuni taught me a lot, but it also taught me how much I didn't know. I had the creative bug, and wanted to learn as much as I could from actual professionals - that's when I found Mind Candy.
 
@@ -50,18 +50,118 @@ Well, Im currently full-time travelling/homeless - so there's not much differenc
 
 #### TL;DR
 I like making stuff. I'm also generally a bit of a nerd.
+</div>
 
-### Business friends
-I've been lucky enough to work with these forward-thinking companies
+<h3>Business friends</h3>
+<p style="margin-top:-20px;">I've been lucky enough to work with these forward-thinking companies</p>
+<div class="logo_container">
+  <img src="/images/logo/pwc.png" alt="PricewaterhouseCoopers" title="PricewaterhouseCoopers" />
+  <img src="/images/logo/mars.png" alt="Mars" title="Mars" />
+  <img src="/images/logo/vodafone.png" alt="Vodafone" title="Vodafone" />
+  <img src="/images/logo/bt.png" alt="British Telecom" title="British Telecom" />
+  <img src="/images/logo/thameswater.png" alt="Thames Water" title="Thames Water" />
+  <img src="/images/logo/britishgas.png" alt="British Gas" title="British Gas" />
+  <img src="/images/logo/sainsburys.png" alt="Sainsburys" title="Sainsburys" />
+  <img src="/images/logo/volkswagen.png" alt="Volkswagen" title="Volkswagen" />
+  <img src="/images/logo/cliffordchance.png" alt="Clifford Chance" title="Clifford Chance" />
+  <img src="/images/logo/hmcts.png" alt="Her Majestys Courts and Tribunal Service" title="Her Majestys Courts and Tribunal Service" />
+  <img src="/images/logo/harrow.png" alt="Harrow Council" title="Harrow Council" />
+  <img src="/images/logo/societygenerale.png" alt="Société Générale" title="Société Générale" />
+  <img src="/images/logo/nedbank.png" alt="Nedbank" title="Nedbank" />
+  <img src="/images/logo/mindcandy.png" alt="Mind Candy" title="Mind Candy" />
+</div>
 
-### Testimonials
-I didn't pay for these
 
-### How we can work together
-I currently am open to working on small remote projects thats interest me.
 
-### Here's a gif for making it this far
-
+<h3>Testimonials</h3>
+<p style="margin-top:-20px;">Kind words from nice people</p>
+</div>
+<div class="testimonial-carousel js-flickity">
+  <div class="testimonial">
+    <p>
+      "I've worked closely with David for 6 years. In that time we have created products for many big name companies and brands. He has an amazing understanding of what makes a product engaging. Without a doubt the success of every product we have worked on, has been a direct result of his insight and input into the process.
+    </p><p>
+      Over the years he provided mentoring and training to his team and has left behind a product team that follow his no nonsense methodology and appetite for excellence.
+    </p>
+    <img />
+    <h4>Daniel Atherton</h4>
+    <h5>CTO, Play</h5>
+  </div>
+  <div class="testimonial">
+    <p>
+    I had the pleasure of teaming up directly with him on many products and I was surprised how much I learned from him every time. Annoyingly, not that you'd expect with someone quite so professional and talented, he is also a bloody lovely guy too. Teams that work with him, respect him, his knowledge and like him in equal amounts. He impeccably gains insight about a problem and swiftly delivers a brilliant solution that not only nails all business goals, but never loses sight of the end user and their engagement.
+    </p><p>
+    Mid table Mario Kart player..."
+    </p>
+    <img />
+    <h4>Jez Fischer</h4>
+    <h5>Head of Creative, Play</h5>
+  </div>
+  <div class="testimonial">
+  <p>
+    "David did an excellent job for us on a sprint zero for a piece of culture work. I think it goes without saying that all of his technical skills are great and that he showed a real care for his work. What was important to Mars was that we found technology partners who understood people too- and David is great at this, taking a real interest in the diverse lives of our Associates and wrapping all of that insight into the app."
+  </p>
+  <img />
+  <h4>Damian Welch</h4>
+  <h5>Global Culture and Engagement Director, Mars</h5>
+  </div>
+  <div class="testimonial">
+  <p>
+    "It is rare to come across a standout like David. I had the pleasure working with him on various projects and teams at Mind Candy and witnessed him expertly design products and lead teams to high performance. His distinct creativity combined with acute product instincts made him a very effective Product Manager and UX designer. David has a bright future ahead of him and I look forward to seeing what he produces next!"
+  </p>
+  <img />
+  <h4>Tony Yang</h4>
+  <h5>Director of Product Management, Mind Candy</h5>
+  </div>
+  <div class="testimonial">
+  <p>
+    "In the 10+ years I have worked in product design, I have never met anyone quite like David. He has an amazing skill at instantly understanding business and customer needs and translating them into engaging products that everyone loves! He would bring huge value to any product or customer focused company.
+  </p><p>
+  David makes work fun. I hope I get the pleasure of working with David again! 👍
+  </p>
+  <img />
+  <h4>Julien Cook</h4>
+  <h5>Head of UX, Play</h5>
+  </div>
+  <div class="testimonial">
+  <p>
+    "I have worked with David on a number of different projects and clients, and have always found him a pleasure to work with. David is able to quickly grasp business problems, and come up with novel and interesting design ideas that address these. David is a consummate professional - organised, diligent and hard working, and has a real 'can do' attitude. I wouldn't hesitate to recommend David for any product manager/UX design/scrum master roles - and hope to work with him again in the future. Many thanks David!"
+  </p>
+  <img />
+  <h4>David Fowler</h4>
+  <h5>Director, KPMG</h5>
+  </div>
+  <div class="testimonial">
+  <p>
+  I’ve had the pleasure of working with David for the past 3+ years at Play. His ability to distil complex business problems and user needs and translate them into a set of simple and understandable experiences is amazing.</p>
+  <p>
+  One of his core strengths is articulating his vision of a particular product and getting early stakeholder buy-in and support which is key to the success of any project!
+  </p><p>
+  I’ve personally learned so much from him over the last few years and he really helped mentor me to be a better and more well-rounded designer. I would not hesitate to recommend him to lead any product or design team.
+  </p>
+  <img />
+  <h4>Michael Sarpong</h4>
+  <h5>Senior Designer, Play</h5>
 
   </div>
+  <div class="testimonial">
+  <p>
+  I was in David's team, and had the opportunity to work with him for nearly a year, across several projects - his sharp personality, intelligence, and willingness were a game changer for clients, projects and myself. I learned a lot from my experience working with him and feel he helped me to be a better designer and work better with clients.
+</p>
+  <p>
+  But he is way more than just a great Team Manager - David proved to be a great team player, always supporting not only people in his team but everyone at Play.
+  </p>
+  <img />
+  <h4>Daniela Picão</h4>
+  <h5>Designer, Play</h5>
+  </div>
+</div>
+<div class="text_container">
+<h3>How we can work together</h3>
+<p>I currently am open to working on small remote projects thats interest me.</p>
+
+<h3>Here's a gif for making it this far</h3>
+
+
+
 </div>

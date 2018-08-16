@@ -123,9 +123,11 @@ h1,h2,h3,h4,h5,h6 {
   @media screen and (max-width: $break-medium) {
     padding:20px;
     margin-top: -20px;
+    padding-bottom: 0;
   }
 
   h3 {
+    font-size: 1.5em;
     margin-bottom:18px;
 
     @media screen and (max-width: $break-small) {
@@ -156,7 +158,7 @@ h1,h2,h3,h4,h5,h6 {
   }
 
   a {
-    color: #009CCA;
+    color: #C82828;
     text-decoration: none;
   }
 
@@ -219,7 +221,109 @@ h1,h2,h3,h4,h5,h6 {
 
   }
 
+  .logo_container {
+    display: flex;
+    flex-flow: row wrap;
+    margin: -20px;
+    margin-bottom:20px;
+    justify-content: center;
 
+    @media screen and (max-width: $break-medium) {
+      margin:-10px;
+      margin-bottom:20px;
+    }
+
+    img {
+      flex: 1;
+      width: calc(100%/8);
+      height:100%;
+      margin:20px;
+      border-radius: 100%;
+      max-width: 14.5%;
+
+      -webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+      -moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+      box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+
+      @media screen and (max-width: $break-medium) {
+        margin:10px;
+
+        -webkit-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.3);
+        -moz-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.3);
+        box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.3);
+      }
+    }
+
+  }
+}
+
+.testimonial-carousel {
+  border-radius: 10px;
+  background: #eee;
+  padding-top: 20px;
+  padding-bottom: 36px;
+  margin-bottom: 28px;
+
+  @media screen and (max-width: $break-medium) {
+    border-radius: 0;
+  }
+
+  .testimonial {
+    width: 66%;
+    padding:0 20px;
+    background: #fff;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    top: 50%;
+    transform: perspective(1px) translateY(-50%);
+    opacity: 0.5;
+
+    -webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
+    -moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
+    box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
+
+    transition: all 0.5s ease;
+
+    @media screen and (max-width: $break-medium) {
+      width: 66%;
+    }
+
+    img {
+      float:left;
+      height: 50px;
+      width: 50px;
+      background: #ccc;
+      border-radius: 100%;
+      margin-right: 15px;
+    }
+
+    h4 {
+      float: left;
+      margin-bottom: 0;
+      width: 75%;
+      margin-top: -4px;
+
+      @media screen and (max-width: $break-small) {
+        margin-top:2px;
+      }
+    }
+
+    h5 {
+      float:left;
+      color: 666;
+      font-weight: 400;
+    }
+
+  }
+  .testimonial.is-selected {
+    opacity: 1;
+    -webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+    box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+  }
+
+  .flickity-page-dots { bottom: 20px; }
 }
 
 nav {
