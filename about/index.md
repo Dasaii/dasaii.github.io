@@ -135,9 +135,7 @@ I like making stuff. I'm also generally a bit of a nerd.
   <p>
   I’ve had the pleasure of working with David for the past 3+ years at Play. His ability to distil complex business problems and user needs and translate them into a set of simple and understandable experiences is amazing.</p>
   <p>
-  One of his core strengths is articulating his vision of a particular product and getting early stakeholder buy-in and support which is key to the success of any project!
-  </p><p>
-  I’ve personally learned so much from him over the last few years and he really helped mentor me to be a better and more well-rounded designer. I would not hesitate to recommend him to lead any product or design team.
+  One of his core strengths is articulating his vision of a particular product and getting early stakeholder buy-in and support which is key to the success of any project!   I’ve personally learned so much from him over the last few years and he really helped mentor me to be a better and more well-rounded designer.
   </p>
   <img />
   <h4>Michael Sarpong</h4>

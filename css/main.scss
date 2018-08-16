@@ -225,6 +225,7 @@ h1,h2,h3,h4,h5,h6 {
     display: flex;
     flex-flow: row wrap;
     margin: -20px;
+    margin-top:-10px;
     margin-bottom:20px;
     justify-content: center;
 
@@ -266,6 +267,10 @@ h1,h2,h3,h4,h5,h6 {
 
   @media screen and (max-width: $break-medium) {
     border-radius: 0;
+
+    .flickity-button {
+      display: none;
+    }
   }
 
   .testimonial {
