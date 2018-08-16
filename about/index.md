@@ -81,7 +81,7 @@ I like making stuff. I'm also generally a bit of a nerd.
     <p>
       "I've worked closely with David for 6 years. In that time we have created products for many big name companies and brands. He has an amazing understanding of what makes a product engaging. Without a doubt the success of every product we have worked on, has been a direct result of his insight and input into the process.
     </p><p>
-      Over the years he provided mentoring and training to his team and has left behind a product team that follow his no nonsense methodology and appetite for excellence.
+      Over the years he provided mentoring and training to his team and has left behind a product team that follow his no nonsense methodology and appetite for excellence."
     </p>
     <img />
     <h4>Daniel Atherton</h4>
@@ -89,7 +89,7 @@ I like making stuff. I'm also generally a bit of a nerd.
   </div>
   <div class="testimonial">
     <p>
-    I had the pleasure of teaming up directly with him on many products and I was surprised how much I learned from him every time. Annoyingly, not that you'd expect with someone quite so professional and talented, he is also a bloody lovely guy too. Teams that work with him, respect him, his knowledge and like him in equal amounts. He impeccably gains insight about a problem and swiftly delivers a brilliant solution that not only nails all business goals, but never loses sight of the end user and their engagement.
+    "I had the pleasure of teaming up directly with him on many products and I was surprised how much I learned from him every time. Annoyingly, not that you'd expect with someone quite so professional and talented, he is also a bloody lovely guy too. Teams that work with him, respect him, his knowledge and like him in equal amounts. He impeccably gains insight about a problem and swiftly delivers a brilliant solution that not only nails all business goals, but never loses sight of the end user and their engagement.
     </p><p>
     Mid table Mario Kart player..."
     </p>
@@ -117,7 +117,7 @@ I like making stuff. I'm also generally a bit of a nerd.
   <p>
     "In the 10+ years I have worked in product design, I have never met anyone quite like David. He has an amazing skill at instantly understanding business and customer needs and translating them into engaging products that everyone loves! He would bring huge value to any product or customer focused company.
   </p><p>
-  David makes work fun. I hope I get the pleasure of working with David again! 👍
+  David makes work fun. I hope I get the pleasure of working with David again! 👍"
   </p>
   <img />
   <h4>Julien Cook</h4>
@@ -133,9 +133,9 @@ I like making stuff. I'm also generally a bit of a nerd.
   </div>
   <div class="testimonial">
   <p>
-  I’ve had the pleasure of working with David for the past 3+ years at Play. His ability to distil complex business problems and user needs and translate them into a set of simple and understandable experiences is amazing.</p>
+  "I’ve had the pleasure of working with David for the past 3+ years at Play. His ability to distil complex business problems and user needs and translate them into a set of simple and understandable experiences is amazing.</p>
   <p>
-  One of his core strengths is articulating his vision of a particular product and getting early stakeholder buy-in and support which is key to the success of any project!   I’ve personally learned so much from him over the last few years and he really helped mentor me to be a better and more well-rounded designer.
+  One of his core strengths is articulating his vision of a particular product and getting early stakeholder buy-in and support which is key to the success of any project!   I’ve personally learned so much from him over the last few years and he really helped mentor me to be a better and more well-rounded designer."
   </p>
   <img />
   <h4>Michael Sarpong</h4>
@@ -144,10 +144,10 @@ I like making stuff. I'm also generally a bit of a nerd.
   </div>
   <div class="testimonial">
   <p>
-  I was in David's team, and had the opportunity to work with him for nearly a year, across several projects - his sharp personality, intelligence, and willingness were a game changer for clients, projects and myself. I learned a lot from my experience working with him and feel he helped me to be a better designer and work better with clients.
+  "I was in David's team, and had the opportunity to work with him for nearly a year, across several projects - his sharp personality, intelligence, and willingness were a game changer for clients, projects and myself. I learned a lot from my experience working with him and feel he helped me to be a better designer and work better with clients.
 </p>
   <p>
-  But he is way more than just a great Team Manager - David proved to be a great team player, always supporting not only people in his team but everyone at Play.
+  But he is way more than just a great Team Manager - David proved to be a great team player, always supporting not only people in his team but everyone at Play."
   </p>
   <img />
   <h4>Daniela Picão</h4>
