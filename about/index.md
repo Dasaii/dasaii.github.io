@@ -156,7 +156,7 @@ I like making stuff. I'm also generally a bit of a nerd.
 </div>
 <div class="text_container">
 <h3>How we can work together</h3>
-<p>I currently am open to working on small remote projects thats interest me.</p>
+<p style="margin-top:-20px;">I currently am open to working on small remote projects, either helping with UX or product strategy. <a href="/contact">Get in touch</a> for more information and we can talk about your needs ✨</p>
 
 <h3>Here's a gif for making it this far</h3>
 
