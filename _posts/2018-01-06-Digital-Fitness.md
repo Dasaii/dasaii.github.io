@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PwC Digital Fitness
+title: Digital Fitness
 date: 2018-01-06
 description: Learning
 thumbnail: /images/digitalfitness.png

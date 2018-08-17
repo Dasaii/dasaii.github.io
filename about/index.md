@@ -1,10 +1,10 @@
 ---
 layout: product
-title: A little bit about me 👀
+title: About
 ---
 
 <div class="text_container">
-  <h1>{{ page.title }}</h1>
+  <h1>A little bit about me 👀</h1>
 
 <div class="flex_container">
 <div class="two-third" markdown="1">
