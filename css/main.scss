@@ -143,6 +143,12 @@ h1,h2,h3,h4,h5,h6 {
     }
   }
 
+  h5 {
+    font-size: 1em;
+    font-weight: 400;
+    margin-bottom: 0px;
+  }
+
   img {
     display: block;
     width: 90%;
@@ -259,6 +265,31 @@ h1,h2,h3,h4,h5,h6 {
       }
     }
 
+  }
+}
+
+.wireframes {
+  background: #eee;
+  padding: 30px;
+  //padding-bottom: 36px;
+  margin-bottom: 28px;
+  border-radius: 10px;
+
+  @media screen and (max-width: $break-medium) {
+    border-radius: 0;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  p {
+    position: relative;
+    font-size: 0.75em;
+    color: #666;
+    text-align: center;
+    margin:0;
+    top:10px;
   }
 }
 

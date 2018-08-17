@@ -32,6 +32,17 @@ layout: product
       </div>
 </div>
 
-<div class="text_container">
-  {{ content }}
+{{ content }}
+
+<div class="more_work">
+  {% if page.next.url %}
+    <a href="{{page.next.url}}"> <span></span> {{page.next.title}} </a>
+  {% else %}
+    <div class="more_work"></div>
+  {% endif %}
+  {% if page.previous.url %}
+    <a class="more_work" href="{{page.previous.url}}">{{page.previous.title}} <span></span></a>
+  {% else %}
+    <div class="more_work"></div>
+  {% endif %}
 </div>

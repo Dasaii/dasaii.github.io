@@ -9,9 +9,10 @@ year: 2014-2016
 
 ---
 
+<div class="text_container" markdown="1">
+
 ### TL;DR
 Words
-
 
 ### Role
 What my role was blah blah
@@ -21,3 +22,5 @@ Blah Blah
 
 ### More things
 Words words words words
+
+</div>
