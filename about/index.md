@@ -158,8 +158,8 @@ I like making stuff. I'm also generally a bit of a nerd.
 <h3>How we can work together</h3>
 <p style="margin-top:-20px;">I currently am open to working on small remote projects, either helping with UX or product strategy. <a href="/contact">Get in touch</a> for more information and we can talk about your needs ✨</p>
 
-<h3>Here's a gif for making it this far</h3>
-
+<h3>You made it to the end - go you!</h3>
+<img src="https://media.giphy.com/media/OcZp0maz6ALok/giphy.gif" style="max-width:400px;" />
 
 
 </div>
