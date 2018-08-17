@@ -293,6 +293,35 @@ h1,h2,h3,h4,h5,h6 {
   }
 }
 
+.more_work {
+  border-top: 1px solid #ccc;
+  padding-top:30px;
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 -20px;
+
+  h3 {
+    width:100%;
+    margin: 0 20px;
+  }
+
+  a {
+    border-radius: 10px;
+    font-size: 1.25em;
+    font-weight:700;
+    text-decoration: none;
+    padding:20px;
+    width:50%;
+    flex: 1;
+    margin:0 20px;
+    background: #ccc;
+    text-align: center;
+    color:#000;
+
+
+  }
+}
+
 .testimonial-carousel {
   border-radius: 10px;
   background: #eee;

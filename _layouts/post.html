@@ -35,14 +35,15 @@ layout: product
 {{ content }}
 
 <div class="more_work">
+  <h3>More products I've work on</h3>
   {% if page.next.url %}
     <a href="{{page.next.url}}"> <span></span> {{page.next.title}} </a>
   {% else %}
-    <div class="more_work"></div>
+    <div></div>
   {% endif %}
   {% if page.previous.url %}
-    <a class="more_work" href="{{page.previous.url}}">{{page.previous.title}} <span></span></a>
+    <a href="{{page.previous.url}}">{{page.previous.title}} <span></span></a>
   {% else %}
-    <div class="more_work"></div>
+    <div></div>
   {% endif %}
 </div>
