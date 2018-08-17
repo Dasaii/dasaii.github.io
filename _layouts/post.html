@@ -2,9 +2,36 @@
 layout: product
 ---
 
+<div class="product_header">
 <h1>{{ page.title }}</h1>
-<p class="meta">{{ page.year }}</p>
+<div class="detail_container">
+{% if page.year %}
+<div class="detail">
+  <h4>Year</h4>
+  <h3 class="meta">{{ page.year }}</h3>
+</div>
+{% endif %}
+{% if page.client %}
+<div class="detail">
+  <h4>Client</h4>
+  <h3 class="meta">{{ page.client }}</h3>
+</div>
+{% endif %}
+{% if page.skills %}
+<div class="detail">
+  <h4>Skills</h4>
+  <h3 class="meta">{{ page.skills }}</h3>
+</div>
+{% endif %}
+</div>
+</div>
 
-<div class="post">
+<div class="products product_banner">
+      <div class="thumbnail {{ page.css }}">
+        <img src="{{ page.thumbnail }}" alt="{{ page.title }}" />
+      </div>
+</div>
+
+<div class="text_container">
   {{ content }}
 </div>

@@ -166,6 +166,10 @@ h1,h2,h3,h4,h5,h6 {
     text-decoration: underline;
   }
 
+  ul {
+    margin-bottom: 20px;
+  }
+
   .flex_container {
       display: flex;
       flex-flow: row wrap;
@@ -511,6 +515,34 @@ footer {
   }
 }
 
+.detail_container {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 20px -20px;
+
+    .detail {
+      width: fit-content;
+      margin: 0px 20px 10px 20px;
+
+      h4 {
+        color: #666;
+        margin:0;
+        font-weight: 400;
+        text-transform: uppercase;
+        font-size: 0.75em;
+      }
+
+      h3 {
+        margin:0;
+        font-weight: 600;
+        margin-top:-2px;
+        font-size: 1em;
+      }
+    }
+
+}
+
+
 .text {
   width: 33.33%;
   height: 100vh;
@@ -660,115 +692,6 @@ footer {
       margin:10px;
     }
 
-    .thumbnail {
-      position: relative;
-      width: 100%;
-      height: 250px;
-      background: #ccc;
-      border-radius: 10px;
-      top:0;
-
-      -webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
-      -moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
-      box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
-
-      transition: all 0.5s ease;
-
-      img {
-        position: relative;
-        display: block;
-        height: 104%;
-        width: auto;
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 95%;
-        bottom: 10px;
-      }
-    }
-
-    .play {
-      background: rgb(230,227,227);
-      background: linear-gradient(45deg, rgba(230,227,227,1) 0%, rgba(255,255,255,1) 100%);
-
-      img {
-        width:250px;
-        height: auto;
-        bottom:-65px;
-      }
-    }
-
-    .totem {
-      background: rgb(255,119,0);
-      background: linear-gradient(120deg, rgba(255,119,0,1) 0%, rgba(252,202,4,1) 100%);
-
-      img {
-        left:-20px;
-      }
-    }
-
-    .aloebud {
-      background: rgb(169,230,228);
-      background: linear-gradient(120deg, rgba(169,230,228,1) 0%, rgba(83,205,200,1) 69%, rgba(66,158,172,1) 100%);
-
-
-      img {
-        width: 110px;
-        height: auto;
-        bottom:-65px;
-      }
-    }
-
-    .bupaboost {
-      background: rgb(0,122,203);
-      background: linear-gradient(120deg, rgba(0,122,203,1) 0%, rgba(4,184,252,1) 100%);
-
-      img {
-        height: 90%;
-        top:25px;
-      }
-    }
-
-    .digitalfitness {
-      background: rgb(185,28,0);
-      background: linear-gradient(120deg, rgba(185,28,0,1) 0%, rgba(227,51,20,1) 100%);
-    }
-
-    .assethunt {
-      background: rgb(0,140,255);
-      background: linear-gradient(120deg, rgba(0,140,255,1) 0%, rgba(4,212,252,1) 100%);
-
-      img {
-        height: 90%;
-        top:25px;
-      }
-    }
-
-    .popjam {
-      background: rgb(36,0,66);
-      background: linear-gradient(120deg, rgba(36,0,66,1) 0%, rgba(141,11,176,1) 100%);
-    }
-
-    .femsplain {
-      background: rgb(255,204,223);
-      background: linear-gradient(120deg, rgba(255,204,223,1) 0%, rgba(224,128,147,1) 100%);
-    }
-
-    .moshi {
-      background: rgb(132,183,219);
-      background: linear-gradient(180deg, rgba(132,183,219,1) 0%, rgba(218,245,255,1) 100%);
-    }
-
-    .lasuni {
-      background:#53C816;
-      overflow: hidden;
-
-      img {
-        width:100%;
-        height: auto;
-        max-width: 100%;
-      }
-    }
-
     h3 {
       display: inline-block;
       font-size:28px;
@@ -797,6 +720,115 @@ footer {
 
   }
 
+  .thumbnail {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    background: #ccc;
+    border-radius: 10px;
+    top:0;
+
+    -webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
+    -moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
+    box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
+
+    transition: all 0.5s ease;
+
+    img {
+      position: relative;
+      display: block;
+      height: 104%;
+      width: auto;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 95%;
+      bottom: 10px;
+    }
+  }
+
+  .play {
+    background: rgb(230,227,227);
+    background: linear-gradient(45deg, rgba(230,227,227,1) 0%, rgba(255,255,255,1) 100%);
+
+    img {
+      width:250px;
+      height: auto;
+      bottom:-65px;
+    }
+  }
+
+  .totem {
+    background: rgb(255,119,0);
+    background: linear-gradient(120deg, rgba(255,119,0,1) 0%, rgba(252,202,4,1) 100%);
+
+    img {
+      left:-20px;
+    }
+  }
+
+  .aloebud {
+    background: rgb(169,230,228);
+    background: linear-gradient(120deg, rgba(169,230,228,1) 0%, rgba(83,205,200,1) 69%, rgba(66,158,172,1) 100%);
+
+
+    img {
+      width: 110px;
+      height: auto;
+      bottom:-65px;
+    }
+  }
+
+  .bupaboost {
+    background: rgb(0,122,203);
+    background: linear-gradient(120deg, rgba(0,122,203,1) 0%, rgba(4,184,252,1) 100%);
+
+    img {
+      height: 90%;
+      top:25px;
+    }
+  }
+
+  .digitalfitness {
+    background: rgb(185,28,0);
+    background: linear-gradient(120deg, rgba(185,28,0,1) 0%, rgba(227,51,20,1) 100%);
+  }
+
+  .assethunt {
+    background: rgb(0,140,255);
+    background: linear-gradient(120deg, rgba(0,140,255,1) 0%, rgba(4,212,252,1) 100%);
+
+    img {
+      height: 90%;
+      top:25px;
+    }
+  }
+
+  .popjam {
+    background: rgb(36,0,66);
+    background: linear-gradient(120deg, rgba(36,0,66,1) 0%, rgba(141,11,176,1) 100%);
+  }
+
+  .femsplain {
+    background: rgb(255,204,223);
+    background: linear-gradient(120deg, rgba(255,204,223,1) 0%, rgba(224,128,147,1) 100%);
+  }
+
+  .moshi {
+    background: rgb(132,183,219);
+    background: linear-gradient(180deg, rgba(132,183,219,1) 0%, rgba(218,245,255,1) 100%);
+  }
+
+  .lasuni {
+    background:#53C816;
+    overflow: hidden;
+
+    img {
+      width:100%;
+      height: auto;
+      max-width: 100%;
+    }
+  }
+
   a:hover {
     .thumbnail {
       top:-10px;
@@ -809,6 +841,31 @@ footer {
       border-bottom: 2px solid #ccc;
       margin-bottom:-2px;
     }
+  }
+
+}
+
+.product_banner {
+  margin: 0;
+  margin-bottom:20px;
+
+  @media screen and (max-width: $break-medium) {
+    margin:10px;
+    padding:10px;
+  }
+
+  @media screen and (max-width: $break-small) {
+    flex-flow: column wrap;
+  }
+
+}
+
+.product_header {
+  @media screen and (max-width: $break-medium) {
+    padding:0 20px;
+    //margin-top: -20px;
+    //padding-bottom: 0;
+    margin-bottom:-15px;
   }
 
 }
