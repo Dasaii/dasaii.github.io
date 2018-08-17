@@ -489,6 +489,14 @@ footer {
       box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.3);
     }
 
+    .twitter {
+      @media screen and (max-width: $break-small) {
+        img {
+          top:0;
+        }
+      }
+    }
+
     .twitter:hover {
       background: #1da1f2;
     }
