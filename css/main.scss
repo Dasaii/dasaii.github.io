@@ -271,13 +271,8 @@ h1,h2,h3,h4,h5,h6 {
 .wireframes {
   background: #eee;
   padding: 30px;
-  //padding-bottom: 36px;
   margin-bottom: 28px;
   border-radius: 10px;
-
-  @media screen and (max-width: $break-medium) {
-    border-radius: 0;
-  }
 
   img {
     width: 100%;
@@ -294,32 +289,81 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .more_work {
-  border-top: 1px solid #ccc;
   padding-top:30px;
   display: flex;
   flex-flow: row wrap;
   margin: 0 -20px;
 
+  @media screen and (max-width: $break-medium) {
+    margin: 5px;
+    padding:5px;
+  }
+
   h3 {
-    width:100%;
-    margin: 0 20px;
+    font-size: 1.5em;
+    width: 100%;
+    margin: 5px 20px 20px 20px;
+
+    @media screen and (max-width: $break-medium) {
+      margin: 10px 20px 20px 10px;
+    }
+
   }
 
   a {
+    position: relative;
+    top:0;
     border-radius: 10px;
-    font-size: 1.25em;
-    font-weight:700;
-    text-decoration: none;
-    padding:20px;
     width:50%;
     flex: 1;
     margin:0 20px;
-    background: #ccc;
+    //background: #ccc;
     text-align: center;
-    color:#000;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    height: 250px;
 
+    -webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
+    -moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
+    box-shadow: 0px 10px 30px 0px rgba(0,0,0,0);
+
+    transition: all 0.5s ease;
+
+    @media screen and (max-width: $break-medium) {
+      margin: 0 10px;
+    }
+
+    img {
+      position: relative;
+      display: block;
+      height: 104%;
+      width: auto;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 95%;
+      bottom: 10px;
+    }
 
   }
+
+  a:hover {
+    top:-10px;
+    -webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+    box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.3);
+
+  }
+
+  .previous_work {
+    @media screen and (max-width: $break-small) {
+      display: none;
+    }
+  }
+}
+
+.divider {
+  width:100%;
+  border-top: 1px solid #ccc;
 }
 
 .testimonial-carousel {
@@ -811,9 +855,9 @@ footer {
     background: linear-gradient(45deg, rgba(230,227,227,1) 0%, rgba(255,255,255,1) 100%);
 
     img {
-      width:250px;
-      height: auto;
-      bottom:-65px;
+      width:250px !important;
+      height: auto !important;
+      bottom:-65px !important;
     }
   }
 
@@ -822,7 +866,7 @@ footer {
     background: linear-gradient(120deg, rgba(255,119,0,1) 0%, rgba(252,202,4,1) 100%);
 
     img {
-      left:-20px;
+      left:-20px !important;
     }
   }
 
@@ -832,9 +876,9 @@ footer {
 
 
     img {
-      width: 110px;
-      height: auto;
-      bottom:-65px;
+      width: 110px !important;
+      height: auto !important;
+      bottom:-65px !important;
     }
   }
 
@@ -843,8 +887,8 @@ footer {
     background: linear-gradient(120deg, rgba(0,122,203,1) 0%, rgba(4,184,252,1) 100%);
 
     img {
-      height: 90%;
-      top:25px;
+      height: 90% !important;
+      top:25px !important;
     }
   }
 
@@ -858,8 +902,8 @@ footer {
     background: linear-gradient(120deg, rgba(0,140,255,1) 0%, rgba(4,212,252,1) 100%);
 
     img {
-      height: 90%;
-      top:25px;
+      height: 90% !important;
+      top:25px !important;
     }
   }
 
@@ -883,9 +927,9 @@ footer {
     overflow: hidden;
 
     img {
-      width:100%;
-      height: auto;
-      max-width: 100%;
+      width:100% !important;
+      height: auto !important;
+      max-width: 100% !important;
     }
   }
 
@@ -974,4 +1018,123 @@ footer {
 
 .more:hover {
   background: #dddddd;
+}
+
+.play {
+  background: rgb(230,227,227);
+  background: linear-gradient(45deg, rgba(230,227,227,1) 0%, rgba(255,255,255,1) 100%);
+
+  img {
+    width:250px !important;
+    height: auto !important;
+    bottom:-65px !important;
+  }
+}
+
+.totem {
+  background: rgb(255,119,0);
+  background: linear-gradient(120deg, rgba(255,119,0,1) 0%, rgba(252,202,4,1) 100%);
+
+  img {
+    left:-20px !important;
+  }
+}
+
+.aloebud {
+  background: rgb(169,230,228);
+  background: linear-gradient(120deg, rgba(169,230,228,1) 0%, rgba(83,205,200,1) 69%, rgba(66,158,172,1) 100%);
+
+
+  img {
+    width: 110px !important;
+    height: auto !important;
+    bottom:-65px !important;
+  }
+}
+
+.bupaboost {
+  background: rgb(0,122,203);
+  background: linear-gradient(120deg, rgba(0,122,203,1) 0%, rgba(4,184,252,1) 100%);
+
+  img {
+    height: 90% !important;
+    top:25px !important;
+  }
+}
+
+.digitalfitness {
+  background: rgb(185,28,0);
+  background: linear-gradient(120deg, rgba(185,28,0,1) 0%, rgba(227,51,20,1) 100%);
+}
+
+.assethunt {
+  background: rgb(0,140,255);
+  background: linear-gradient(120deg, rgba(0,140,255,1) 0%, rgba(4,212,252,1) 100%);
+
+  img {
+    height: 90% !important;
+    top:25px !important;
+  }
+}
+
+.popjam {
+  background: rgb(36,0,66);
+  background: linear-gradient(120deg, rgba(36,0,66,1) 0%, rgba(141,11,176,1) 100%);
+}
+
+.femsplain {
+  background: rgb(255,204,223);
+  background: linear-gradient(120deg, rgba(255,204,223,1) 0%, rgba(224,128,147,1) 100%);
+}
+
+.moshi {
+  background: rgb(132,183,219);
+  background: linear-gradient(180deg, rgba(132,183,219,1) 0%, rgba(218,245,255,1) 100%);
+}
+
+.lasuni {
+  background:#53C816;
+  overflow: hidden;
+
+  img {
+    width:100% !important;
+    height: auto !important;
+    max-width: 100% !important
+  }
+}
+
+.all {
+  background: linear-gradient(320deg, #e81d1d, #e8ce1d, #26e70d, #1ddde8, #2b1de8, #dd00f3, #e81d1d);
+  background-size: 1400% 1400%;
+
+  -webkit-animation: rainbow 30s infinite;
+  -moz-animation: rainbow 30s infinite;
+  animation: rainbow 30s infinite;
+
+  h3 {
+    position: relative;
+    font-size: 2em;
+    color: #fff;
+    margin-left:auto;
+    margin-right:auto;
+    top: 50%;
+    transform: perspective(1px) translateY(-50%);
+    margin: 0;
+  }
+}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 2%}
+    50%{background-position:100% 99%}
+    100%{background-position:0% 2%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 2%}
+    50%{background-position:100% 99%}
+    100%{background-position:0% 2%}
+}
+@keyframes rainbow {
+    0%{background-position:0% 2%}
+    50%{background-position:100% 99%}
+    100%{background-position:0% 2%}
 }

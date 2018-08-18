@@ -35,14 +35,14 @@ We started the Sprint 0 by running a workshop with stakeholders and engineers to
 
 #### Wireframes
 We worked iteratively as a team with Thames Water, using wireframes to convey concepts visually as quickly as possible.
-</div>
+
 
 <div class="wireframes">
   <img src="/images/greatassethunt/wireframes.png" alt="Wireframe sample" />
   <p>Sample of wireframes created during the Sprint 0</p>
 </div>
 
-<div class="text_container" markdown="1">
+
 #### Solution
 We decided to focus on a gamified solution that helps to motivate engineers by creating a team-based games, where they win by improving their team's performance. We shifted the perception by branding it "The Great Asset Hunt", repositioning how the engineers thought about their work and making it fun. Working with Jez Fischer, we designed the UI based on the wireframes I created. We built a prototype using [Marvel](http://marvelapp.com) to test our initial designs with engineers.
 
