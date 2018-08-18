@@ -24,7 +24,7 @@ My background is in games and User Experience (UX), designing products that are 
 #### The early days
 I've always been obsessed with games and technology, but it was getting access to the internet that made me realise that I could not just play games, but I could make them too. Online I met other enterprising teens who wanted to make games, forming a community where we'd share our ideas, creations and ultimately all our failures!
 
-As we grew up our projects got more ambitious and one of those projects grew into [Lasuni](/work/lasuni). With my internet friends [Jason Bryan](http://) and Amber Discko: we designed, shipped, marketed and build an online community. We managed to grow a highly engaged audience, and it helped me to fund my Computer Science degree without any student loans.
+As we grew up our projects got more ambitious and one of those projects grew into [Lasuni](/work/lasuni). With my internet friends [Jason Bryan](http://) and [Amber Discko](https://twitter.com/amberdiscko): we designed, shipped, marketed and build an online community. We managed to grow a highly engaged audience, and it helped me to fund my Computer Science degree without any student loans.
 
 Lasuni taught me a lot, but it also taught me how much I didn't know. I had the creative bug, and wanted to learn as much as I could from actual professionals - that's when I found Mind Candy.
 
@@ -55,7 +55,7 @@ I like making stuff. I'm also generally a bit of a nerd.
 </div>
 
 <h3>Business friends</h3>
-<p style="margin-top:-20px;">I've been lucky enough to work with these forward-thinking companies</p>
+<p style="margin-top:-20px;">I've been lucky enough to have worked with these forward-thinking companies</p>
 <div class="logo_container">
   <img src="/images/logo/pwc.png" alt="PricewaterhouseCoopers" title="PricewaterhouseCoopers" />
   <img src="/images/logo/mars.png" alt="Mars" title="Mars" />

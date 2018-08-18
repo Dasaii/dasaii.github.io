@@ -6,6 +6,8 @@ description: Improving Wellness
 thumbnail: /images/bupaboost.png
 css: bupaboost
 year: 2014-2016
+client: Bupa
+skills: Product design, UX
 
 ---
 
