@@ -8,6 +8,7 @@ css: assethunt
 year: 2015
 client: Thames Water
 skills: Product design, UX
+role: Product lead
 
 ---
 <div class="text_container" markdown="1">
@@ -18,14 +19,14 @@ We helped make engineers jobs easier and more engaging, ultimately helping reduc
 ### Problem
 While at <a href="/work/play">Play</a>, we were approached by Thames Water to help improve the performance of their engineers, specifically around data collection. The current system they were using relied on giant Excel spreadsheets, was error prone and took 6 months for the data to be properly stored in their systems.
 
-### What we did
-#### Process
-We began with a 2-week Sprint 0 (design Sprint) to: help us understand the problem; propose and iterate on potential solutions; and define/ estimate a potential pilot to prove our idea. The Sprint 0 allowed us to remain agile (not committing to any estimates before we know what we're building) and gave our client confidence, as they only had to commit to the initial 2 weeks of work.
+### Process
+We began with a 2-week Sprint 0 (design Sprint) to: help us understand the problem; propose and iterate on potential solutions; and define/ estimate a potential pilot to prove our idea. The Sprint 0 allowed us to remain agile (not committing to any estimates before we know what we're building) and gave our client confidence, as they only had to commit to the initial 2-weeks of work.
 
-#### Discovery
-We started the Sprint 0 by running a workshop with stakeholders and engineers to help us understand the engineers current day-to-day role, the problems they encounter, devices they have access to and any other requirements to ensure the project could be a success. We then ran a short gamification workshop to help the engineers understand what's possible and to see what ideas resonated with them.
+Following the Sprint 0 we designed and developed an MVP version to be piloted with engineers for iPads. We helped to plan and run the pilot, including defining and measuring the KPIs that would be used to measure success.
 
-##### We identified these project goals:
+During the whole process we worked closely with stakeholders and engineers that would be using the product. This was important to make sure that we built something that was appropriate for the Thames Water culture, and would be well received by the team.
+
+### Product goals
 - Make it easy for engineers to collect data while on site
 - Support the capture of high quality data
 - Motivate engineers to continually collect comprehensive datasets over time
@@ -33,18 +34,35 @@ We started the Sprint 0 by running a workshop with stakeholders and engineers to
 - Allow managers to easily verify new equipment to ensure consistency across complete surveys
 - Take advantage of the platform (photos, GPS) to streamline data collection
 
-#### Wireframes
+### Wireframes
 We worked iteratively as a team with Thames Water, using wireframes to convey concepts visually as quickly as possible.
-
 
 <div class="wireframes">
   <img src="/images/greatassethunt/wireframes.png" alt="Wireframe sample" />
-  <p>Sample of wireframes created during the Sprint 0</p>
+  <p>Sample of hundreds of wireframes I created during the Sprint 0</p>
 </div>
 
-
-#### Solution
+### Solution
 We decided to focus on a gamified solution that helps to motivate engineers by creating a team-based games, where they win by improving their team's performance. We shifted the perception by branding it "The Great Asset Hunt", repositioning how the engineers thought about their work and making it fun. Working with Jez Fischer, we designed the UI based on the wireframes I created. We built a prototype using [Marvel](http://marvelapp.com) to test our initial designs with engineers.
+
+</div>
+<div class="image-carousel js-flickity">
+  <img src="/images/greatassethunt/gah1.png" />
+  <img src="/images/greatassethunt/gah2.png" />
+  <img src="/images/greatassethunt/gah3.png" />
+</div>
+
+<div class="text_container" markdown="1">
+
+#### Make it fun
+Beyond just gamification features, we worked hard to ensure that The Great Asset Hunt didn't look or feel like traditional 'work' applications that they were used to using. We also created a series of badges to add humour and reward the engineers for long-term progress, my personal favourite was the 'Taxidermy' badge for finding dead animals on site!
+
+#### Reimagined data collection
+Words
+
+
+#### Human validation for quality
+Words
 
 ### Outcome
 After a successful Sprint 0 we built an MVP and ran a pilot for 3-months with a group of engineers to great success.

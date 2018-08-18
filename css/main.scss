@@ -276,6 +276,7 @@ h1,h2,h3,h4,h5,h6 {
 
   img {
     width: 100%;
+    margin: 0;
   }
 
   p {
@@ -365,6 +366,43 @@ h1,h2,h3,h4,h5,h6 {
   width:100%;
   border-top: 1px solid #ccc;
 }
+
+.image-carousel {
+  border-radius: 10px;
+  background: #eee;
+  padding-top: 20px;
+  padding-bottom: 36px;
+  margin-bottom: 28px;
+
+  @media screen and (max-width: $break-medium) {
+    border-radius: 0;
+
+    .flickity-button {
+      display: none;
+    }
+  }
+
+  img {
+    width: 66%;
+    //padding:0 20px;
+    //background: #fff;
+    border-radius: 10px;
+    top: 50%;
+    margin:0 20px;
+    transform: perspective(1px) translateY(-50%);
+    opacity: 0.5;
+
+
+    transition: all 0.5s ease;
+  }
+
+  img.is-selected {
+    opacity: 1;
+  }
+
+  .flickity-page-dots { bottom: 20px; }
+}
+
 
 .testimonial-carousel {
   border-radius: 10px;
