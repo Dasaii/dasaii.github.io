@@ -6,7 +6,7 @@ description: Improving Wellness
 thumbnail: /images/bupaboost.png
 accent_colour: blue
 css: bupaboost
-year: 2014-2016
+year: 2014 – 2016
 client: Bupa
 role: Product lead
 websitetitle: Bupa Boost
@@ -19,13 +19,24 @@ websiteurl: https://bupaboost.com
 ### TL;DR
 Words
 
-### Role
+### Problem
 What my role was blah blah
 
 ### Process
 Blah Blah
 
-### More things
+### Solution
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GszJdhb0oGE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+Blah Blah
+
+### Outcome
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GH1ci3VWaU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 Words words words words
 
 </div>

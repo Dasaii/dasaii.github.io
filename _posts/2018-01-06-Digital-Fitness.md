@@ -6,7 +6,7 @@ description: Learning
 thumbnail: /images/digitalfitness.png
 accent_colour: red
 css: digitalfitness
-year: 2015-2017
+year: 2015 – 2017
 client: PwC
 role: Product lead
 websitetitle: Digital Fitness
@@ -35,21 +35,22 @@ We began with a 2-week Sprint 0 (design Sprint) to: help us understand the probl
 
 After building an initial [Marvel](https://marvelapp.com) prototype to share with stakeholders we built an initial MVP version to test with a PwC client. From that success we built and ran an agile team with myself as Product lead, 1 UX/UI designer, 2 developers, 1 project manager and QA. Working closely with PwC to understand future requirements, pitching feature areas and running the product as a live service. During this time we worked with stakeholders from across the business to allow them to use Digital Fitness for their part of the business.
 
-### Product goals
-Words
-
 ### Solution
-We
+<div class="youtube">
+<iframe src="https://www.youtube.com/embed/vTT98Z7RRs0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-#### Assess
-Through the Digital Fitness app, employees take a short assessment to receive their Digital Fitness score.
+We focused on building a platform that could be used by an entire company, truly enabling cultural change. The product was eventually built for iOS and responsive web, and can be deeply customised for each company to meet their needs. There are two core parts to the Digital Fitness Assessment, assess and learn.
 
-With a clear understanding of your workforce’s digital fluency, we can build a transformation program tailored to that organisation.
+#### 1. Assess
+Through the Digital Fitness app, employees take a short assessment to receive their Digital Fitness score. Having a baseline is important to understanding where you currently are to enable you to identify weak areas and improve. From the assess portion used are able to see how they performed, but also how they company to their company and to industry benchmarks. Business leaders can use this data to get a comprehensive picture of their copmany's digital fitness.
 
-#### Advance
-Employees boost their Digital Fitness score through bite-sized, addictive content contextualized to your organisation.
+#### 2. Advance
+Knowing your strength and weakness is interesting, but the important part is to help people improve and learn. This is where Advance comes in: employees boost their Digital Fitness score through bite-sized, addictive content contextualised to your organisation.
 
-Personalised employee learning plans are built based on their Digital Fitness score, interests, and behaviours.
+Personalised employee learning plans are built based on their Digital Fitness score, interests, and behaviours. From our research we learned that users wanted a variety of content types, and to move around from traditional e-learns, to address this the content was designed to be mobile friendly so it can be done on the go.
+
+Periodically users are prompted to re-Assess, allowing them to see their long-term progression.
 
 </div>
 <div class="image-carousel js-flickity" data-flickity='{ "imagesLoaded": true }'>
@@ -57,11 +58,29 @@ Personalised employee learning plans are built based on their Digital Fitness sc
   <div class="image-cell"><img src="/images/digitalfitness/dfa2.jpeg" /></div>
   <div class="image-cell"><img src="/images/digitalfitness/dfa3.jpeg" /></div>
   <div class="image-cell"><img src="/images/digitalfitness/dfa4.jpeg" /></div>
+  <div class="image-cell"><img src="/images/digitalfitness/laptop1.png" /></div>
 </div>
 
 <div class="text_container" markdown="1">
 
 ### Outcome
-Words
+Digital Fitness Assessment has been used to improve the digital literacy of hundreds of PwC's clients and also got launched to all 100,000 of PwC's employees to help up-skill and drive innovation internally.
+
+#### Reviews
+Reviews from the App Store
+</div>
+<div class="testimonial-carousel js-flickity" data-flickity='{ "imagesLoaded": true }'>
+  <div class="testimonial">
+    <p><strong>Learning made fun!</strong></p>
+    <p>This experience has changed how I think about collaborating and applying my skillsets to work and life in new ways. App itself is beautiful, intuitive and actually fun to play. Makes learning easily consumable and tangible.</p>
+  </div>
+  <div class="testimonial">
+    <p><strong>Super helpful and humbling!</strong></p>
+    <p>I thought this would be boring and bogus, but it really surprised me. For someone who thought of himself as very tech savvy this shook me up. Awesome app with lots of great links to teach digital skills and indulge interests. Super helpful to learn at your own pace.</p>
+  </div>
+  <div class="testimonial">
+    <p><strong>Great app for on-the-go learning!</strong></p>
+    <p>Information was easy to consume and highlighted relevant topics across industries.</p>
+  </div>
 
 </div>
