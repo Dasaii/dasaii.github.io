@@ -17,7 +17,7 @@ websiteurl: https://digital.pwc.com/en/products/digital-fitness.html
 <div class="text_container" markdown="1">
 
 ### TL;DR
-Words
+We worked with PwC to improve business' digital literacy, making it easy and fun for employees to understand their Digital Fitness and giving them clear steps on how to improve.
 
 ### Problem
 For over a decade PwC have run an annual CEO survey called [Digital IQ](https://www.pwc.com/us/en/services/consulting/digital-iq.html) to help businesses better understand how they can use technology to improve their business.
