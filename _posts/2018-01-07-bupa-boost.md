@@ -4,10 +4,13 @@ title: Bupa Boost
 date: 2018-01-07
 description: Improving Wellness
 thumbnail: /images/bupaboost.png
+accent_colour: blue
 css: bupaboost
 year: 2014-2016
 client: Bupa
-skills: Product design, UX
+role: Product lead
+websitetitle: Bupa Boost
+websiteurl: https://bupaboost.com
 
 ---
 

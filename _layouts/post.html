@@ -17,10 +17,16 @@ layout: product
   <h3 class="meta">{{ page.client }}</h3>
 </div>
 {% endif %}
-{% if page.skills %}
+{% if page.role %}
 <div class="detail">
-  <h4>Skills</h4>
-  <h3 class="meta">{{ page.skills }}</h3>
+  <h4>Role</h4>
+  <h3 class="meta">{{ page.role }}</h3>
+</div>
+{% endif %}
+{% if page.websitetitle %}
+<div class="detail {{ page.accent_colour }}">
+  <h4>Find out more</h4>
+  <a href="{{ page.websiteurl }}" target="_blank"><h3 class="meta">{{ page.websitetitle }}</h3></a>
 </div>
 {% endif %}
 </div>
