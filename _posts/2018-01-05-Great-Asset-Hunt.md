@@ -26,6 +26,14 @@ Following the Sprint 0 we designed and developed an MVP version to be piloted wi
 
 During the whole process we worked closely with stakeholders and engineers that would be using the product. This was important to make sure that we built something that was appropriate for the Thames Water culture, and would be well received by the team.
 
+#### Wireframes
+We worked iteratively as a team with Thames Water, using wireframes to convey concepts visually as quickly as possible.
+
+<div class="wireframes">
+  <img src="/images/greatassethunt/wireframes.png" alt="Wireframe sample" />
+  <p>Sample of hundreds of wireframes I created during the Sprint 0</p>
+</div>
+
 ### Product goals
 - Make it easy for engineers to collect data while on site
 - Support the capture of high quality data
@@ -33,14 +41,6 @@ During the whole process we worked closely with stakeholders and engineers that 
 - Reduce the time spent by managers checking data - helping them spend their time more efficiently
 - Allow managers to easily verify new equipment to ensure consistency across complete surveys
 - Take advantage of the platform (photos, GPS) to streamline data collection
-
-### Wireframes
-We worked iteratively as a team with Thames Water, using wireframes to convey concepts visually as quickly as possible.
-
-<div class="wireframes">
-  <img src="/images/greatassethunt/wireframes.png" alt="Wireframe sample" />
-  <p>Sample of hundreds of wireframes I created during the Sprint 0</p>
-</div>
 
 ### Solution
 We decided to focus on a gamified solution that helps to motivate engineers by creating a team-based games, where they win by improving their team's performance. We shifted the perception by branding it "The Great Asset Hunt", repositioning how the engineers thought about their work and making it fun. Working with Jez Fischer, we designed the UI based on the wireframes I created. We built a prototype using [Marvel](http://marvelapp.com) to test our initial designs with engineers.

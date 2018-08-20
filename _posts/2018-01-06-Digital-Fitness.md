@@ -17,7 +17,7 @@ websiteurl: https://digital.pwc.com/en/products/digital-fitness.html
 <div class="text_container" markdown="1">
 
 ### TL;DR
-We worked with PwC to improve business' digital literacy, making it easy and fun for employees to understand their Digital Fitness and giving them clear steps on how to improve.
+We worked with PwC to improve business' digital literacy - making it easy and fun for employees to understand their Digital Fitness with bite-sized learning content to help them improve.
 
 ### Problem
 For over a decade PwC have run an annual CEO survey called [Digital IQ](https://www.pwc.com/us/en/services/consulting/digital-iq.html) to help businesses better understand how they can use technology to improve their business.
@@ -43,7 +43,7 @@ After building an initial [Marvel](https://marvelapp.com) prototype to share wit
 We focused on building a platform that could be used by an entire company, truly enabling cultural change. The product was eventually built for iOS and responsive web, and can be deeply customised for each company to meet their needs. There are two core parts to the Digital Fitness Assessment, assess and learn.
 
 #### 1. Assess
-Through the Digital Fitness app, employees take a short assessment to receive their Digital Fitness score. Having a baseline is important to understanding where you currently are to enable you to identify weak areas and improve. From the assess portion used are able to see how they performed, but also how they company to their company and to industry benchmarks. Business leaders can use this data to get a comprehensive picture of their copmany's digital fitness.
+Through the Digital Fitness app, employees take a short assessment to receive their Digital Fitness score. Having a baseline is important to understanding where you currently are to enable you to identify weak areas and improve. From the assess portion used are able to see how they performed, but also how they company to their company and to industry benchmarks. Business leaders can use this data to get a comprehensive picture of their company's digital fitness.
 
 #### 2. Advance
 Knowing your strength and weakness is interesting, but the important part is to help people improve and learn. This is where Advance comes in: employees boost their Digital Fitness score through bite-sized, addictive content contextualised to your organisation.
