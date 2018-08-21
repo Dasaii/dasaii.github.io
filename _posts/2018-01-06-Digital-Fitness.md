@@ -19,7 +19,7 @@ websiteurl: https://digital.pwc.com/en/products/digital-fitness.html
 ### TL;DR
 We worked with PwC to improve business' digital literacy - making it easy and fun for employees to understand their Digital Fitness with bite-sized learning content to help them improve.
 
-### Problem
+### Background
 For over a decade PwC have run an annual CEO survey called [Digital IQ](https://www.pwc.com/us/en/services/consulting/digital-iq.html) to help businesses better understand how they can use technology to improve their business.
 
 PwC's research indicated widespread problem with companies reporting that:
@@ -35,7 +35,7 @@ We began with a 2-week Sprint 0 (design Sprint) to: help us understand the probl
 
 After building an initial [Marvel](https://marvelapp.com) prototype to share with stakeholders we built an initial MVP version to test with a PwC client. From that success we built and ran an agile team with myself as Product lead, 1 UX/UI designer, 2 developers, 1 project manager and QA. Working closely with PwC to understand future requirements, pitching feature areas and running the product as a live service. During this time we worked with stakeholders from across the business to allow them to use Digital Fitness for their part of the business.
 
-### Solution
+### Product
 <div class="youtube">
 <iframe src="https://www.youtube.com/embed/vTT98Z7RRs0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
@@ -63,7 +63,7 @@ Periodically users are prompted to re-Assess, allowing them to see their long-te
 
 <div class="text_container" markdown="1">
 
-### Outcome
+### Results
 Digital Fitness Assessment has been used to improve the digital literacy of hundreds of PwC's clients and also got launched to all 100,000 of PwC's employees to help up-skill and drive innovation internally.
 
 #### Reviews
@@ -82,5 +82,13 @@ Reviews from the App Store
     <p><strong>Great app for on-the-go learning!</strong></p>
     <p>Information was easy to consume and highlighted relevant topics across industries.</p>
   </div>
+</div>
+<div class="text_container" markdown="1">
+#### Press
+- [Digital Fitness Initiative to transform the workforce](http://www.digitaljournal.com/business/digital-fitness-initiative-to-transform-the-workforce/article/515125) - Digital Journal
+- [The Surprising Benefit PwC Uses to Attract and Retain Top Talent](https://www.glassdoor.com/employers/blog/pwc-digital-fitness/) - Glassdoor Blog
+- [PwC introduces new workforce engagement app](https://www.accountingtoday.com/news/pwc-introduces-new-workforce-engagement-app) - Accounting Today
+- [Are You a Digital Guru or Luddite?](http://tcbmag.com/news/articles/2018/august/are-you-a-digital-guru-or-luddite) - Twin Cities Business
+- [If your staff needs to get more tuned-in to a digital world, this app can show them how](https://fmlink.com/articles/pwc-app-empowers-workforce-digital-technology/) - FMLink
 
 </div>

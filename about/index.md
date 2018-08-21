@@ -24,7 +24,7 @@ My background is in games and User Experience (UX), designing products that are 
 #### The early days
 I've always been obsessed with games and technology, but it was getting access to the internet that made me realise that I could not just play games, but I could make them too. Online I met other enterprising teens who wanted to make games, forming a community where we'd share our ideas, creations and ultimately all our failures!
 
-As we grew up our projects got more ambitious and one of those projects grew into [Lasuni](/work/lasuni). With my internet friends [Jason Bryan](http://) and [Amber Discko](https://twitter.com/amberdiscko): we designed, shipped, marketed and build an online community. We managed to grow a highly engaged audience, and it helped me to fund my Computer Science degree without any student loans.
+As we grew up our projects got more ambitious and one of those projects grew into [Lasuni](/work/lasuni). With my internet friends [Jason Bryan](https://www.instagram.com/travelistlife/) and [Amber Discko](https://twitter.com/amberdiscko): we designed, shipped, marketed and build an online community. We managed to grow a highly engaged audience, and it helped me to fund my Computer Science degree without any student loans.
 
 Lasuni taught me a lot, but it also taught me how much I didn't know. I had the creative bug, and wanted to learn as much as I could from actual professionals - that's when I found Mind Candy.
 
@@ -36,11 +36,11 @@ While on holiday in the US, I created a hand-crafted application to Mind Candy a
 At Mind Candy I learned tons: how startups work; what product management is; research (I ran play-testing every week); running an effective team; presenting to stakeholders; and the importance of team culture in building great things. In my last year I led UX and later product management for a new mobile, creative, community - PopJam, where I met Marcus and Dan.
 
 #### Play
-Working on mobile games, we realised how powerful game mechanics can be in driving behaviours. Play formed on the belief that we could use our games experience to build compelling products to help people and businesses achieve their goals. The dream team was back together with Marcus Thornley (CEO), [Dan Atherton](https://twitter.com/rabidbadger69) (CTO) and myself (CPO) heading up our respective skillsets.
+Working on mobile games, we realised how powerful game mechanics can be in driving behaviours. Play formed on the belief that we could use our games experience to build compelling products to help people and businesses achieve their goals. The dream team was back together with Marcus Thornley (CEO), [Dan Atherton](https://twitter.com/RabidBadger80) (CTO) and myself (CPO) heading up our respective skillsets.
 
 ![Team Play - May 2016](/images/teamplay_2016.jpg "Team Play - May 2016")
 
-With our first client we designed, built, shipped and ran [Bupa Boost](/work/bupaboost) as a live service. With a lot of hard work we kept growing the business and we used our learnings of how these huge businesses work to create Totem, our attempt to productise good company culture. Over my 4 years there I grew my product team to 8 super talented individuals, and we designed and shipped tens of products for some of the biggest companies in the UK.
+With our first client we designed, built, shipped and ran [Bupa Boost](/work/bupa-boost) as a live service. With a lot of hard work we kept growing the business and we used our learnings of how these huge businesses work to create Totem, our attempt to productise good company culture. Over my 4 years there I grew my product team to 8 super talented individuals, and we designed and shipped tens of products for some of the biggest companies in the UK.
 
 #### Now
 On the 27th June 2018, I took the heart-wrenching decision to leave Play, and I left the UK to travel with my boyfriend, [Remi](https://instagram.com/remionthego). We're currently somewhere in SE Asia and will be arriving in Australia towards the end of the year. You can follow along with my travels on [Twitter](https://twitter.com/dasaii) or [Instagram](https://instagram.com/dasaii) if you'd like.

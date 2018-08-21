@@ -16,7 +16,7 @@ role: Product lead
 ### TL;DR
 We helped make engineers jobs easier and more engaging, ultimately helping reduce the time it took for collected data to be stored from 6 months to 1 day and massively improving data quality.
 
-### Problem
+### Background
 While at [Play](/work/play/), we were approached by [Thames Water](https://thameswater.co.uk/) to help improve the performance of their engineers, specifically around data collection. The current system they were using relied on giant Excel spreadsheets, was error prone and took 6 months for the data to be properly stored in their systems.
 
 ### Process
@@ -42,7 +42,7 @@ We worked iteratively as a team with Thames Water, using wireframes to convey co
 - Allow managers to easily verify new equipment to ensure consistency across complete surveys
 - Take advantage of the platform (photos, GPS) to streamline data collection
 
-### Solution
+### Product
 We decided to focus on a gamified solution that helps to motivate engineers by creating a team-based games, where they win by improving their team's performance. We shifted the perception by branding it "The Great Asset Hunt", repositioning how the engineers thought about their work and making it fun. Working with Jez Fischer, we designed the UI based on the wireframes I created. We built a prototype using [Marvel](http://marvelapp.com) to test our initial designs with engineers.
 
 </div>
@@ -63,7 +63,7 @@ We started from scratch by reviewing all the data that was currently requested, 
 #### Human validation for quality
 While we wanted to reduce human error as much as possible, it was required that some free-text areas remained for the data required. To help keep data standards high we developed a manager portal that allowed managers to review data - highlighting the free-text fields first as they're most likely to include errors.
 
-### Outcome
+### Results
 After a successful Sprint 0 we built an MVP and ran a pilot for 3-months with a group of engineers to great success.
 
 ##### Key successes:
