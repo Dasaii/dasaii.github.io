@@ -29,7 +29,7 @@ As we grew up our projects got more ambitious and one of those projects grew int
 Lasuni taught me a lot, but it also taught me how much I didn't know. I had the creative bug, and wanted to learn as much as I could from actual professionals - that's when I found Mind Candy.
 
 #### Mind Candy
-While on holiday in the US, I created a hand-crafted application to Mind Candy and emailed it to recruitment and [Michael Acton Smith](https://twitter.com/acton), the CEO. Thankfully it was well received with Michael tweeting about my efforts -  landing me an interview at Mind Candy but also at 2 other start-ups. Everything worked out and I landed the gig at Mind Candy - during my time I was given me the opportunity to work on a variety of projects from the core game and safety tools to the mobile-first future of Moshi.
+While on holiday in the US, I created a [hand-crafted application to Mind Candy](/work/moshi-monsters/) and emailed it to recruitment and [Michael Acton Smith](https://twitter.com/acton), the CEO. Thankfully it was well received with Michael tweeting about my efforts -  landing me an interview at Mind Candy but also at 2 other start-ups. Everything worked out and I landed the gig at Mind Candy - during my time I was given me the opportunity to work on a variety of projects from the core game and safety tools to the mobile-first future of Moshi.
 
 ![Mind Candy  - 2013](/images/mindcandy.jpg "Mind Candy - 2013")
 
