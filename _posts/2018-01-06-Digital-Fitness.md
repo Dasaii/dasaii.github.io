@@ -42,10 +42,10 @@ After building an initial [Marvel](https://marvelapp.com) prototype to share wit
 
 We focused on building a platform that could be used by an entire company, truly enabling cultural change. The product was eventually built for iOS and responsive web, and can be deeply customised for each company to meet their needs. There are two core parts to the Digital Fitness Assessment, assess and learn.
 
-#### 1. Assess
+#### Assess
 Through the Digital Fitness app, employees take a short assessment to receive their Digital Fitness score. Having a baseline is important to understanding where you currently are to enable you to identify weak areas and improve. From the assess portion used are able to see how they performed, but also how they company to their company and to industry benchmarks. Business leaders can use this data to get a comprehensive picture of their company's digital fitness.
 
-#### 2. Advance
+#### Advance
 Knowing your strength and weakness is interesting, but the important part is to help people improve and learn. This is where Advance comes in: employees boost their Digital Fitness score through bite-sized, addictive content contextualised to your organisation.
 
 Personalised employee learning plans are built based on their Digital Fitness score, interests, and behaviours. From our research we learned that users wanted a variety of content types, and to move around from traditional e-learns, to address this the content was designed to be mobile friendly so it can be done on the go.

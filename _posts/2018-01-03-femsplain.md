@@ -19,13 +19,17 @@ websiteurl: https://femsplain.com
 ### TL;DR
 Words
 
-### Role
+### Background
 What my role was blah blah
 
-### Process
+### What we did
 Blah Blah
 
-### More things
+### Results
 Words words words words
+
+#### Press
+- [Hack on feminist site backfires gloriously](https://money.cnn.com/2015/03/09/technology/femsplain-hack/index.html) - CNN
+- [DDoS attack targets Femsplain on International Women's Day](https://www.theverge.com/2015/3/8/8171269/ddos-attack-targets-femsplain-on-international-womens-day) - The Verge
 
 </div>
