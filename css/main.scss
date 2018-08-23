@@ -476,6 +476,9 @@ h1,h2,h3,h4,h5,h6 {
     //padding-bottom: 20px;
     opacity: 0.5;
     padding-bottom: 20px;
+
+    transition: all 0.5s ease;
+
   }
 
   img {
@@ -486,7 +489,7 @@ h1,h2,h3,h4,h5,h6 {
     border-radius: 10px;
     object-fit: contain;
 
-    transition: all 0.5s ease;
+    transition: opacity 0.5s ease;
 
     @media screen and (max-width: $break-small) {
       max-width: 350px;
@@ -1077,13 +1080,11 @@ footer {
   }
 
   .lasuni {
-    background:#53C816;
-    overflow: hidden;
+    background: rgb(163,231,0);
+    background: linear-gradient(120deg, rgba(163,231,0,1) 0%, rgba(83,200,22,1) 100%);
 
     img {
-      width:100% !important;
-      height: auto !important;
-      max-width: 100% !important;
+      height: 100%;
     }
   }
 
@@ -1247,13 +1248,11 @@ footer {
 }
 
 .lasuni {
-  background:#53C816;
-  overflow: hidden;
+  background: rgb(163,231,0);
+  background: linear-gradient(120deg, rgba(163,231,0,1) 0%, rgba(83,200,22,1) 100%);
 
   img {
-    width:100% !important;
-    height: auto !important;
-    max-width: 100% !important
+    height: 100%;
   }
 }
 
