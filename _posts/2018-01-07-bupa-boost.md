@@ -23,7 +23,7 @@ We worked with Bupa to design, develop and run a digital platform to change busi
 Bupa is one of the largest private insurers in the UK serving 32 million customers in 190 countries, they approached us at [Play](/work/play) to discuss what we could do to improve their digital offerings, initially focusing on their corporate and business health insurance.
 
 ##### Bupa's research found that:
-- 85%* of UK workers say their employer has a responsibility to look after their health and wellbeing
+- 85% of UK workers say their employer has a responsibility to look after their health and wellbeing
 - 78% of employees would welcome support from their employer to think about their health and wellbeing
 - 60% of workers admit if they felt happy and well at work they would be more productive
 

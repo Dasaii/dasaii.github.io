@@ -90,6 +90,14 @@ I like making stuff. I'm also generally a bit of a nerd.
     <h5>CTO, Play</h5>
   </div>
   <div class="testimonial">
+  <p>
+  "David was my go-to person at Play as he brilliantly combined business knowledge, UX expertise and project management skills that I struggle to find in most agencies. I was very impressed on how quickly David grasped the business problem we were trying to tackle and bring a range of creative solutions to the problems. As a client of his, I always had the confidence that under David's direction, the team would deliver high quality UX solutions and designs and on time, something invaluable for me in the consulting industry. Highly recommend!
+</p>
+  <img src="/images/people/seb_barsoumian.jpg"/>
+  <h4>Seb Barsoumian</h4>
+  <h5>Senior Manager, PwC</h5>
+  </div>
+  <div class="testimonial">
     <p>
     "I had the pleasure of teaming up directly with him on many products and I was surprised how much I learned from him every time. Annoyingly, not that you'd expect with someone quite so professional and talented, he is also a bloody lovely guy too. Teams that work with him, respect him, his knowledge and like him in equal amounts. He impeccably gains insight about a problem and swiftly delivers a brilliant solution that not only nails all business goals, but never loses sight of the end user and their engagement.
     </p><p>
@@ -142,7 +150,17 @@ I like making stuff. I'm also generally a bit of a nerd.
   <img src="/images/people/michael_sarpong.jpg"/>
   <h4>Michael Sarpong</h4>
   <h5>Senior Designer, Play</h5>
-
+  </div>
+  <div class="testimonial">
+  <p>
+    "David showed complete commitment to our project from day 1 and provided an excellent product and project management service throughout. He managed his team of developers well throughout and met all of our deadlines. He provided that key function of interfacing between our business requirements and technical development, providing pragmatic options for development to create the right balance between time, cost and product outcome.
+  </p>
+  <p>
+      David was great to work with, professional, engaging and fun!"
+  </p>
+  <img src="/images/people/colin_mann.jpg"/>
+  <h4>Colin Mann</h4>
+  <h5>Director, PwC</h5>
   </div>
   <div class="testimonial">
   <p>
@@ -154,6 +172,14 @@ I like making stuff. I'm also generally a bit of a nerd.
   <img src="/images/people/daniela_picao.jpg"/>
   <h4>Daniela Picão</h4>
   <h5>Designer, Play</h5>
+  </div>
+  <div class="testimonial">
+  <p>
+    "David is a master at product design and delivered huge value to us when we explored options for a global engagement app to over 100K people. He effortlessly navigated the demands of a great user experience with the technical requirements in a complex stakeholder environment. Experienced, talented, dedicated and fun to work with - I couldn't recommend David highly enough."
+  </p>
+  <img src="/images/people/arthur_pugh.jpg"/>
+  <h4>Arthur Pugh</h4>
+  <h5>Programme lead - Global Culture, Mars</h5>
   </div>
 </div>
 <div class="text_container">
