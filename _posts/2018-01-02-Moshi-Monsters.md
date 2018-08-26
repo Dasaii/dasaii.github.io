@@ -122,5 +122,11 @@ We redesigned secret codes to have their own pages that could be accessed from w
 </div>
 
 <div class="text_container" markdown="1">
+### Results
+Achieved all these great things!
 
+#### Key successes:
+- 1
+- 2
+- 3
 </div>
