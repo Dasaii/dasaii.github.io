@@ -15,7 +15,7 @@ websiteurl: http://moshimonsters.com
 <div class="text_container" markdown="1">
 
 ### TL;DR
-I designed games and updates for millions of kids at Moshi Monsters. I worked on all aspects of the online game including community tools and the main website. Then my focus was on imagining the future of Moshi Monsters on mobile.
+I designed games and updates for millions of kids playing Moshi Monsters. I worked on all aspects of the online game including community tools and the main website. Then my focus was on imagining the future of Moshi Monsters on mobile.
 
 <div class="flex_container">
 <div class="two-third" markdown="1">
