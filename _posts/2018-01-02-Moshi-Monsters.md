@@ -36,6 +36,7 @@ In my time at Mind Candy I was involved in a wide variety of projects, I started
 
 An interesting challenge when working on the UX for the main game was balancing the ease-of-use with the fun - part of the success of Moshi Monsters was exploring the game and discovering exciting new areas that weren't necessarily obvious. Another important area is ensuring that we're designing what the kids actually want, and dealing with the specifics of designing kids products.
 
+<!--
 ### Creating your first monster
 Acquisition is hugely important for any product, and for Moshi Monsters it required users to go through the registration process. We had explored removing a lot of the registration to allow users to play first and then sign up to save their process, however it turned out to be to technically time-consuming with the legacy backend.
 
@@ -83,6 +84,8 @@ Working with [Ram Kanda](https://twitter.com/ramkanda) and [James Kirkwood](http
 
 <div class="text_container" markdown="1">
 
+-->
+
 ### Game UI
 Working with [Ram Kanda](https://twitter.com/ramkanda) and [James Kirkwood](http://www.jameskirkwood.com/) we worked to improve the Moshi Monsters UI. Key areas of focus were to allow players to access core functionality across the whole game (before it was restricted to their room), create a new way to message players, and re-design the main navigation to remove confusing around accessing your room.
 
@@ -111,7 +114,6 @@ This was a short but fun project, working with [Ram Kanda](https://twitter.com/r
 - Difficult to enter multiple codes in one session
 - Confusion between secret codes and membership codes
 
-
 #### Secret Codes - IGGY edition
 We redesigned secret codes to have their own pages that could be accessed from within the game. This gave users a consistent place that they could access it. We wanted to make the experience of unlocking a secret code so we designed it around a popular Moshling - Iggy. After you enter a code Iggy eats the code and returns the reward (or spits it out if it's not valid), this ensures that players always know what they unlocked with their code. To reduce confusion with membership codes, we have a link in the top right to prompt users to the correct location.
 
@@ -119,14 +121,4 @@ We redesigned secret codes to have their own pages that could be accessed from w
 <div class="image-carousel js-flickity" data-flickity='{ "imagesLoaded": true }'>
   <div class="image-cell"><img src="/images/moshi/secretcode.png" /></div>
   <div class="image-cell"><img src="/images/moshi/secretcode2.png" /></div>
-</div>
-
-<div class="text_container" markdown="1">
-### Results
-Achieved all these great things!
-
-#### Key successes:
-- 1
-- 2
-- 3
 </div>
