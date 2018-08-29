@@ -61,19 +61,18 @@ I like making stuff. I'm also generally a bit of a nerd.
   <img src="/images/logo/mars.png" alt="Mars" title="Mars" />
   <img src="/images/logo/vodafone.png" alt="Vodafone" title="Vodafone" />
   <img src="/images/logo/bt.png" alt="British Telecom" title="British Telecom" />
+  <img src="/images/logo/bupa.png" alt="Bupa" title="Bupa" />
   <img src="/images/logo/thameswater.png" alt="Thames Water" title="Thames Water" />
   <img src="/images/logo/britishgas.png" alt="British Gas" title="British Gas" />
   <img src="/images/logo/sainsburys.png" alt="Sainsburys" title="Sainsburys" />
   <img src="/images/logo/volkswagen.png" alt="Volkswagen" title="Volkswagen" />
   <img src="/images/logo/cliffordchance.png" alt="Clifford Chance" title="Clifford Chance" />
-  <img src="/images/logo/hmcts.png" alt="Her Majestys Courts and Tribunal Service" title="Her Majestys Courts and Tribunal Service" />
+  <img src="/images/logo/inmarsat.png" alt="Inmarsat" title="Inmarsat" />
   <img src="/images/logo/harrow.png" alt="Harrow Council" title="Harrow Council" />
   <img src="/images/logo/societygenerale.png" alt="Société Générale" title="Société Générale" />
   <img src="/images/logo/nedbank.png" alt="Nedbank" title="Nedbank" />
   <img src="/images/logo/mindcandy.png" alt="Mind Candy" title="Mind Candy" />
 </div>
-
-
 
 <h3>Testimonials</h3>
 <p style="margin-top:-20px;">Kind words from nice people</p>
@@ -180,6 +179,14 @@ I like making stuff. I'm also generally a bit of a nerd.
   <img src="/images/people/arthur_pugh.jpg"/>
   <h4>Arthur Pugh</h4>
   <h5>Programme lead - Global Culture, Mars</h5>
+  </div>
+  <div class="testimonial">
+    <p>
+    "Everything he touches becomes beautiful. I’ve been friends with David for almost 15 years, but I’ve also known him as my creative partner. Since the age of 17 we’ve worked together on all types of projects ranging from branding, to UX/UI, to creating entire virtual worlds. David has the ability to take assets and a vision and turn it into something that feels like it should have existed all along. I love working with David and I can’t recommend him more highly to anyone. My mum loves him!"
+    </p>
+    <img src="/images/people/amber_discko.jpg"/>
+    <h4>Amber Discko</h4>
+    <h5>Founder, Aloe Bud</h5>
   </div>
 </div>
 <div class="text_container">

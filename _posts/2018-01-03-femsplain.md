@@ -2,7 +2,7 @@
 layout: post
 title: Femsplain
 date: 2018-01-03
-description: A support community for sharing personal stories
+description: A supportive community for sharing personal stories
 thumbnail: /images/femsplain.png
 accent_colour: pink
 css: femsplain

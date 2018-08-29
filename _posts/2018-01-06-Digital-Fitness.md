@@ -2,7 +2,7 @@
 layout: post
 title: Digital Fitness
 date: 2018-01-06
-description: Learning
+description: A new approach to learning digital skills
 thumbnail: /images/digitalfitness.png
 accent_colour: red
 css: digitalfitness

@@ -2,7 +2,7 @@
 layout: post
 title: Bupa Boost
 date: 2018-01-07
-description: Improving Wellness
+description: Improving wellness in the workplace
 thumbnail: /images/bupaboost.png
 accent_colour: blue
 css: bupaboost
