@@ -6,7 +6,7 @@ description: Designing games for over 80m kids
 thumbnail: /images/moshi.png
 accent_colour: green
 css: moshi
-year: 2011 – 2013
+year: 2012 – 2013
 role: UX Designer
 websitetitle: Moshi Monsters
 websiteurl: http://moshimonsters.com
