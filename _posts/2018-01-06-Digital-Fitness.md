@@ -54,10 +54,10 @@ Periodically users are prompted to re-Assess, allowing them to see their long-te
 
 </div>
 <div class="image-carousel js-flickity" data-flickity='{ "imagesLoaded": true }'>
-  <div class="image-cell"><img src="/images/digitalfitness/dfa1.jpeg" /></div>
-  <div class="image-cell"><img src="/images/digitalfitness/dfa2.jpeg" /></div>
-  <div class="image-cell"><img src="/images/digitalfitness/dfa3.jpeg" /></div>
-  <div class="image-cell"><img src="/images/digitalfitness/dfa4.jpeg" /></div>
+  <div class="image-cell"><img src="/images/digitalfitness/dfa1.jpg" /></div>
+  <div class="image-cell"><img src="/images/digitalfitness/dfa2.jpg" /></div>
+  <div class="image-cell"><img src="/images/digitalfitness/dfa3.jpg" /></div>
+  <div class="image-cell"><img src="/images/digitalfitness/dfa4.jpg" /></div>
   <div class="image-cell"><img src="/images/digitalfitness/laptop1.png" /></div>
 </div>
 
