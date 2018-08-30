@@ -9,7 +9,7 @@ css: moshi
 year: 2012 – 2013
 role: UX Designer
 websitetitle: Moshi Monsters
-websiteurl: http://moshimonsters.com
+websiteurl: http://www.moshimonsters.com
 
 ---
 <div class="text_container" markdown="1">
@@ -30,7 +30,7 @@ I joined [Mind Candy](http://mindcandy.com) in April 2012 after creating a hand-
 </div>
 
 ### What I did
-In my time at Mind Candy I was involved in a wide variety of projects, I started working on community tools, helping to make the task of moderating 80m kids more efficient. Later I worked on revamping the website and the core UI of the game including registration. The bulk of my time was designing and prototyping mobile versions of Moshi Monsters which were unfortunately never released. After working on Moshi Monsters I moved onto [PopJam](/work/popjam/), a creative community for kids.
+In my time at Mind Candy I was involved in a wide variety of projects, I started working on community tools, helping to make the task of moderating 80m kids more efficient. Later I worked on revamping the website and the core UI of the game including registration. The bulk of my time was designing and prototyping mobile versions of Moshi Monsters which were unfortunately never released. After working on Moshi Monsters I moved onto [PopJam](/work/popjam), a creative community for kids.
 
 ![Moshi Mobile](/images/moshi/moshimobile.png)
 

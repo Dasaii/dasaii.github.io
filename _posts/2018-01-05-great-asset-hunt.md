@@ -17,7 +17,7 @@ role: Product lead
 We helped make engineers jobs easier and more engaging, ultimately helping reduce the time it took for collected data to be stored from 6 months to 1 day and massively improving data quality.
 
 ### Background
-While at [Play](/work/play/), we were approached by [Thames Water](https://thameswater.co.uk/) to help improve the performance of their engineers, specifically around data collection. The current system they were using relied on giant Excel spreadsheets, was error prone and took 6 months for the data to be properly stored in their systems.
+While at [Play](/work/play), we were approached by [Thames Water](https://www.thameswater.co.uk/) to help improve the performance of their engineers, specifically around data collection. The current system they were using relied on giant Excel spreadsheets, was error prone and took 6 months for the data to be properly stored in their systems.
 
 ### Process
 We began with a 2-week Sprint 0 (design Sprint) to: help us understand the problem; propose and iterate on potential solutions; and define/ estimate a potential pilot to prove our idea. The Sprint 0 allowed us to remain agile (not committing to any estimates before we know what we're building) and gave our client confidence, as they only had to commit to the initial 2-weeks of work.
