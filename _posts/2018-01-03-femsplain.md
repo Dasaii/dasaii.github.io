@@ -37,7 +37,7 @@ I redesigned and helped code an updated Femsplain website focusing on what made 
 ![Navigation](/images/femsplain/nav.png)
 
 ### Move to Medium
-Femsplain was so successful that it drew the attention of [Medium](https://medium.com) who wanted Femsplain to be a launch partner for their new publications on Medium. Ultimately they decided to move as this helped attract an even higher readership, access Mediums ad tools and meant time could be focused on sharing personal stories, not web development.
+Femsplain was so successful that it drew the attention of [Medium](https://medium.com) who wanted Femsplain to be a launch partner for their new publications on Medium. Ultimately, they decided to move as this helped attract an even higher readership, access Mediums ad tools and meant time could be focused on sharing personal stories, not web development.
 
 ### Archiving Femsplain
 As of June 2017 Amber took the difficult decision to archive Femsplain so they could focus their energy on [Aloe](/work/aloe-bud) - building self-care tools. At the time they explained the move:

@@ -17,18 +17,18 @@ websiteurl: https://digital.pwc.com/en/products/digital-fitness.html
 <div class="text_container" markdown="1">
 
 ### TL;DR
-We worked with PwC to improve business' digital literacy - making it easy and fun for employees to understand their Digital Fitness with bite-sized learning content to help them improve.
+We worked with [PwC](https://www.pwc.co.uk/) to improve business' digital literacy - making it easy and fun for employees to understand their Digital Fitness with bite-sized learning content to help them improve.
 
 ### Background
 For over a decade PwC have run an annual CEO survey called [Digital IQ](https://www.pwc.com/us/en/services/consulting/digital-iq.html) to help businesses better understand how they can use technology to improve their business.
 
-PwC's research indicated widespread problem with companies reporting that:
+PwC's research indicated widespread problems with companies reporting that:
 - 63% lack skilled teams
 - 45% have slow or inflexible processes
 - 51% lack new data or technology integrations
 - 63% use outdated or obsolete technologies
 
-While I was at Play we worked with PwC to design an innovative solution to help businesses not only embrace new technology but to help change the company culture to be more innovative, agile and customer focused.
+While I was at [Play](/work/play) we worked with PwC to design an innovative solution to help businesses not only embrace new technology but to help change the company culture to be more innovative, agile and customer focused.
 
 ### Process
 We began with a 2-week Sprint 0 (design Sprint) to: help us understand the problem; propose and iterate on potential solutions; and define/ estimate a potential pilot to prove our idea. A core theme we decided on was moving from focusing on the C-Suite executives to the whole organisation, as ultimately the day-to-day decisions that make a company successful aren't only made by executives!
@@ -43,12 +43,12 @@ After building an initial [Marvel](https://marvelapp.com) prototype to share wit
 We focused on building a platform that could be used by an entire company, truly enabling cultural change. The product was eventually built for iOS and responsive web, and can be deeply customised for each company to meet their needs. There are two core parts to the Digital Fitness Assessment, assess and learn.
 
 #### Assess
-Through the Digital Fitness app, employees take a short assessment to receive their Digital Fitness score. Having a baseline is important to understanding where you currently are to enable you to identify weak areas and improve. From the assess portion used are able to see how they performed, but also how they company to their company and to industry benchmarks. Business leaders can use this data to get a comprehensive picture of their company's digital fitness.
+Through the Digital Fitness app, employees take a short assessment to receive their Digital Fitness score. Having a baseline is important to understanding where you currently are to enable you to identify weak areas and improve. From the Assess portion used are able to see how they performed, but also how they compare to their company and to industry benchmarks. Business leaders can use this data to get a comprehensive picture of their company's digital fitness.
 
 #### Advance
-Knowing your strength and weakness is interesting, but the important part is to help people improve and learn. This is where Advance comes in: employees boost their Digital Fitness score through bite-sized, addictive content contextualised to your organisation.
+Knowing your strengths and weaknesses is interesting, but the important part is to help people improve and learn. This is where Advance comes in: employees boost their Digital Fitness score through bite-sized, addictive content contextualised to their organisation.
 
-Personalised employee learning plans are built based on their Digital Fitness score, interests, and behaviours. From our research we learned that users wanted a variety of content types, and to move around from traditional e-learns, to address this the content was designed to be mobile friendly so it can be done on the go.
+Personalised employee learning plans are built based on their Digital Fitness score, interests, and behaviours. From our research we learned that users wanted a variety of content types, and to move away from traditional e-learns, to address this the content was designed to be mobile-friendly so it can be completed on-the-go.
 
 Periodically users are prompted to re-Assess, allowing them to see their long-term progression.
 

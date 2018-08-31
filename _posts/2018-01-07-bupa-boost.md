@@ -37,21 +37,21 @@ After building an initial [Marvel](https://marvelapp.com) prototype to share wit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GszJdhb0oGE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-Available on iOS, Android (and briefly Windows Phone) - Bupa Boost supports employees to set personal goals, track their progress against friends and colleagues and motivate and inspire them, as well as integrating data from other apps and wearables. Employees can also benefit from Bupa’s wider portfolio of health information and services through Bupa Boost.
+Available on iOS, Android (and briefly Windows Phone) - Bupa Boost supports employees to set personal goals, track their progress against friends and colleagues as well as integrating data from other apps and wearables. Employees can also benefit from Bupa’s wider portfolio of health information and services through Bupa Boost.
 
-Employers benefit from collective anonymised data allowing them to better understand the health and wellbeing priorities of their workforce. As a result businesses will be able to set challenges through Bupa Boost that aim to address employee needs or hold workplace initiatives on the health issues that matter most to their people. Unlike most PMI (insurance) benefits, Bupa Boost is offered to the whole workforce, meaning that everybody can benefit, not just the privileged few.
+Employers benefit from aggregated anonymised data allowing them to better understand the health and wellbeing of their workforce. As a result businesses will be able to set challenges through Bupa Boost that aim to address employee needs or hold workplace initiatives on the health issues that matter most to their people. Unlike most PMI (insurance) benefits, Bupa Boost is offered to the whole workforce, meaning that everybody can benefit, not just the privileged few.
 
 #### Beyond fitness
-Wellbeing is more than fitness – Boost supports your nutrition, mindfulness, relaxation and fitness for a comprehensive approach to wellbeing. This is important to ensure that Boost is useful to everybody - Boost supports users in achieving their goals, not by stipulating what is required to improve their wellbeing.
+Wellbeing is more than fitness – Boost supports nutrition, mindfulness, relaxation and fitness for a comprehensive approach to wellbeing. This is important to ensure that Boost is useful to everybody - Boost supports users in achieving their goals, not by stipulating what is required to improve their wellbeing.
 
 #### Use the devices/services you love
-Bupa Boost integrates with existing popular health services such as MapMyFitness, FitBit and Apple Health/Google Fit. It also supports iOS, Android (and briefly) Windows Phone. This allows everybody to support and improve their wellbeing together even if one is an iPhone wielding gardener and the other is an Android user hooked on Strava.
+Bupa Boost integrates with existing popular health services such as MapMyFitness, FitBit and Apple Health/Google Fit. It also supports iOS, Android (and briefly) Windows Phone. This allows everybody to support and improve their wellbeing together even if one is an iPhone wielding gardener and the other is an Android user hooked on [Strava](https://www.strava.com/).
 
 #### Healthy habits
-Small actions lead to big outcomes. Boost builds daily habits by reminding and rewarding to help you meet your goals.
+Small actions lead to big outcomes. Boost builds daily habits by reminding and rewarding to help users meet their goals.
 
 #### Make wellbeing fun
-Set challenges, collect badges and reach the top of the leaderboard. Boost makes your wellbeing a fun, rewarding and social experience for everybody.
+Set challenges, collect badges and reach the top of the leaderboard. Boost makes wellbeing a fun, rewarding and social experience for everybody.
 
 </div>
 
@@ -80,14 +80,11 @@ Bupa Boost has been very successful for Bupa helping them to change the way they
 - Average 4.4 session/days
 - 10,000s of active users
 
-
 #### Awards
 - [LangBuisson Awards 2016, Innovation in Technology](https://laingbuissonawards.com/previous-years/2016-awards/winners/winners-innovation-leaders/) - Won
 - Health Investor Awards 2017, IT Innovator of the Year - Shortlisted
 
 <img src="/images/boost/team_bupaboost.jpg" alt="Team Bupa Boost - November 2016" title="Team Bupa Boost - November 2016" />
-
-
 
 #### Press
 - [Bupa takes on Apple with new fitness tracking app](https://www.telegraph.co.uk/finance/newsbysector/supportservices/11360744/Bupa-takes-on-Apple-with-new-fitness-tracking-app.html) - The Telegraph

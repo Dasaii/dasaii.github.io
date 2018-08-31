@@ -15,14 +15,14 @@ websiteurl: http://www.moshimonsters.com
 <div class="text_container" markdown="1">
 
 ### TL;DR
-I designed games and updates for millions of kids playing Moshi Monsters. I worked on all aspects of the online game including community tools and the main website. Then my focus was on imagining the future of Moshi Monsters on mobile.
+I designed games and updates for millions of kids playing Moshi Monsters. I worked on all aspects of the online game including community tools and the main website. Later my focus shifted to imagining the future of Moshi Monsters on mobile.
 
 <div class="flex_container">
 <div class="two-third" markdown="1">
 ### Background
 Moshi Monsters is a BAFTA award winning game for kids aged 6-12, with over 80 million players in 150 countries it is was one of the fastest growing children's properties ever.
 
-I joined [Mind Candy](http://mindcandy.com) in April 2012 after creating a hand-crafted application to get their attention. My first projects were on the Moshi Monsters team. When I joined I was currently the only UX designer meaning I got to work on a wide variety of projects. Later I would be joined by 2 additional UX designers and a user researcher. During my time at Mind Candy I ran play-testing sessions every week testing the latest ideas we were working on.
+I joined [Mind Candy](http://mindcandy.com) in April 2012 after creating a hand-crafted application to get their attention. My first projects were on the Moshi Monsters team, when I joined I was currently the only UX designer meaning I got to work on a wide variety of projects. Later, I would be joined by 2 additional UX designers and a user researcher. During my time at Mind Candy I ran play-testing sessions every week testing the latest ideas we were working on.
 </div>
 <div class="one-third">
 <img src="/images/moshi/application.png" alt="My application to Mind Candy" title="My application to Mind Candy" />
@@ -30,11 +30,11 @@ I joined [Mind Candy](http://mindcandy.com) in April 2012 after creating a hand-
 </div>
 
 ### What I did
-In my time at Mind Candy I was involved in a wide variety of projects, I started working on community tools, helping to make the task of moderating 80m kids more efficient. Later I worked on revamping the website and the core UI of the game including registration. The bulk of my time was designing and prototyping mobile versions of Moshi Monsters which were unfortunately never released. After working on Moshi Monsters I moved onto [PopJam](/work/popjam), a creative community for kids.
+In my time at Mind Candy I was involved in a wide variety of projects, I started working on community tools, helping to make the task of moderating 80m kids more efficient. Later I worked on revamping the website and the core UI of the game including registration. The bulk of my time was designing and prototyping mobile versions of Moshi Monsters which were unfortunately never released - but i learnt a lot about product management and game design. After working on Moshi Monsters I moved onto [PopJam](/work/popjam), a creative community for kids.
 
 ![Moshi Mobile](/images/moshi/moshimobile.png)
 
-An interesting challenge when working on the UX for the main game was balancing the ease-of-use with the fun - part of the success of Moshi Monsters was exploring the game and discovering exciting new areas that weren't necessarily obvious. Another important area is ensuring that we're designing what the kids actually want, and dealing with the specifics of designing kids products.
+An interesting challenge when working on the UX for the main game was balancing the ease-of-use with the fun - part of the success of Moshi Monsters was exploring the game and discovering exciting new areas that weren't necessarily obvious. Another important aspect was ensuring that we're designing what the kids actually want, and dealing with the specifics of designing kids products (safety, regulations etc).
 
 <!--
 ### Creating your first monster
@@ -103,7 +103,7 @@ The new updated UI kept to the fun aesthetic of Moshi while making tweaks to mak
 ![New UI](/images/moshi/whatsnew.png)
 
 ### Secret codes
-This was a short but fun project, working with [Ram Kanda](https://twitter.com/ramkanda) as the UI designer. Players could be awarded secret codes from competitions and physical toys, but the only way to enter the codes was by logging out and adding it when you logged back in. This could be frustrating if you had many codes and didn't offer any feedback as to whether your code was successful. There was also confusion between membership codes which offered a set period of premium access and secret codes as these were technically different systems.
+This was a short but fun project, working with [Ram Kanda](https://twitter.com/ramkanda) as the UI designer. Players could be awarded secret codes from competitions and physical toys, but the only way to enter the codes was by logging out and adding it on the login page. This could be frustrating if you had multiple codes and didn't offer any feedback as to whether your code was successful or what you received. There was also confusion between membership codes which offered a set period of premium access and secret codes as these were technically different systems.
 
 ![Old UI](/images/moshi/secretcodeold.jpg)
 
@@ -115,7 +115,7 @@ This was a short but fun project, working with [Ram Kanda](https://twitter.com/r
 - Confusion between secret codes and membership codes
 
 #### Secret Codes - IGGY edition
-We redesigned secret codes to have their own pages that could be accessed from within the game. This gave users a consistent place that they could access it. We wanted to make the experience of unlocking a secret code so we designed it around a popular Moshling - Iggy. After you enter a code Iggy eats the code and returns the reward (or spits it out if it's not valid), this ensures that players always know what they unlocked with their code. To reduce confusion with membership codes, we have a link in the top right to prompt users to the correct location.
+We redesigned secret codes to have their own page that could be accessed from within the game. This gave users a consistent place to access it. We wanted to make the experience of unlocking a secret code fun so we designed it around a popular Moshling - Iggy. After you enter a code Iggy eats the code and returns the reward (or spits it out if it's not valid), this ensures that players always know what they unlocked with their code. To reduce confusion with membership codes, we have a link in the top right to prompt users to the correct location.
 
 </div>
 <div class="image-carousel js-flickity" data-flickity='{ "imagesLoaded": true }'>
