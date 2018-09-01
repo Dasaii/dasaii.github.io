@@ -48,7 +48,7 @@ On the 27th June 2018, I took the heart-wrenching decision to leave Play, and I 
 ![Chiang Mai - July 2018](/images/travelling.jpg "Chiang Mai - July 2018")
 
 #### And outside of work?
-Well, Im currently full-time travelling/homeless - so there's not much difference! But while not making stuff, I love to travel (clearly), take [bad photos on my phone](https://instagram.com/dasaii), run, watch far too much Netflix. Other important things to note: I'm a Ravenclaw, aspiring Pokemon Master and my favourite film is the Lion King. I get my games fix on-the-go with my Nintendo Switch, I'm currently playing Toad's Treasure Tracker.
+Well, I'm currently full-time travelling/homeless - so there's not much difference! But while not making stuff, I love to travel (clearly), take [bad photos on my phone](https://instagram.com/dasaii), run, watch far too much Netflix. Other important things to note: I'm a Ravenclaw, aspiring Pokemon Master and my favourite film is the Lion King. I get my games fix on-the-go with my Nintendo Switch, I'm currently playing Toad's Treasure Tracker.
 
 #### TL;DR
 I like making stuff. I'm also generally a bit of a nerd.
