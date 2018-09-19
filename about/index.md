@@ -80,6 +80,18 @@ I like making stuff. I'm also generally a bit of a nerd.
 <div class="testimonial-carousel js-flickity">
   <div class="testimonial">
     <p>
+      "I worked with David at first Mind Candy and then at Play - where he led product across both consultancy projects and internal IP, managing a growing team that figured out how gamified digital products could change the world of work.
+      If you know him, or read the other recommendations (especially the ones from his Play team), you'll see that he's exceptional at what he does. Listening, making connections/ seeing patterns, focusing on users, conceptualising and defining products that are like no other - he can do it all.
+    </p>
+    <p>
+      What's even more unique though is his humility and positivity. He's enthusiastic about life and people and learning - and how digital products can unlock human potential and happiness."
+    </p>    
+    <img src="/images/people/marcus_thornley.jpg"/>
+    <h4>Marcus Thornley</h4>
+    <h5>CEO, Play</h5>
+  </div>
+  <div class="testimonial">
+    <p>
       "I've worked closely with David for 6 years. In that time we have created products for many big name companies and brands. He has an amazing understanding of what makes a product engaging. Without a doubt the success of every product we have worked on, has been a direct result of his insight and input into the process.
     </p><p>
       Over the years he provided mentoring and training to his team and has left behind a product team that follow his no nonsense methodology and appetite for excellence."
