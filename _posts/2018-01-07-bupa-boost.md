@@ -78,7 +78,7 @@ Bupa Boost has been very successful for Bupa helping them to change the way they
 - Rolled out to hundreds of corporates and businesses
 - Market leading retention
 - Average 4.4 session/days
-- 10,000s of active users
+- Millions of goals completed
 
 #### Awards
 - [LangBuisson Awards 2016, Innovation in Technology](https://laingbuissonawards.com/previous-years/2016-awards/winners/winners-innovation-leaders/) - Won

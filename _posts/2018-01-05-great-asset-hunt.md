@@ -26,6 +26,7 @@ Following the Sprint 0 we designed and developed an MVP version for iPads to be 
 
 During the whole process we worked closely with stakeholders and engineers that would be using the product. This was important to make sure that we built something that was appropriate for the Thames Water culture, and would be well received by the team.
 
+<!--
 #### Wireframes
 We worked iteratively as a team with Thames Water, using wireframes to convey concepts visually as quickly as possible.
 
@@ -33,6 +34,7 @@ We worked iteratively as a team with Thames Water, using wireframes to convey co
   <img src="/images/greatassethunt/wireframes.png" alt="Wireframe sample" />
   <p>Sample of hundreds of wireframes I created during the Sprint 0</p>
 </div>
+-->
 
 ### Product goals
 - Make it easy for engineers to collect data while on-site
