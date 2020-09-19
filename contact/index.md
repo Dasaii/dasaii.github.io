@@ -13,7 +13,5 @@ I'm always happy to meet new people so if you want to talk about design, games, 
 ### Instagram: <span>@</span>[dasaii](https://instagram.com/dasaii)
 ### LinkedIn: [David Stribling](https://www.linkedin.com/in/davidstribling/)
 
-#### Work with me
-I currently am open to working on small remote projects, either helping with UX or product strategy. Get in touch for more information and we can talk about your needs ✨
 
 </div>
