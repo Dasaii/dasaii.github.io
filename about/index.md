@@ -8,7 +8,7 @@ title: About
 
 <div class="flex_container">
 <div class="two-third" markdown="1">
-Hello 👋🏼! I'm David , a product designer from the UK, currently living in Sydney, Australia. I specialise in creating digital products that help people be their best selves. Whether that's helping to [improve someone's wellbeing](/work/bupa-boost), save some extra money, [learn a new skill](/work/digital-fitness) or [just have fun](/work/moshi-monsters). I truly believe in the power of technology to have a positive impact in people's lives.
+Hello 👋🏼! I'm David , a product designer from the UK, currently working at [Deputy](https://deputy.com) in Sydney, Australia. I specialise in creating digital products that help people be their best selves. Whether that's helping to [improve someone's wellbeing](/work/bupa-boost), save some extra money, [learn a new skill](/work/digital-fitness) or [just have fun](/work/moshi-monsters). I truly believe in the power of technology to have a positive impact in people's lives.
 
 My background is in games and User Experience (UX), designing products that are simple for people to use, but most importantly, help them to achieve their goals. But what I really care about is shipping cool things, testing new ideas and making a difference to people's lives. You can see a few of the products I've worked on in my [Portfolio](/portfolio).
 </div>
