@@ -8,7 +8,7 @@ title: About
 
 <div class="flex_container">
 <div class="two-third" markdown="1">
-Hello 👋🏼! I'm David , a travelling product designer from the UK. I specialise in creating digital products that help people be their best selves. Whether that's helping to [improve someone's wellbeing](/work/bupa-boost), save some extra money, [learn a new skill](/work/digital-fitness) or [just have fun](/work/moshi-monsters). I truly believe in the power of technology to have a positive impact in people's lives.
+Hello 👋🏼! I'm David , a product designer from the UK, currently living in Sydney, Australia. I specialise in creating digital products that help people be their best selves. Whether that's helping to [improve someone's wellbeing](/work/bupa-boost), save some extra money, [learn a new skill](/work/digital-fitness) or [just have fun](/work/moshi-monsters). I truly believe in the power of technology to have a positive impact in people's lives.
 
 My background is in games and User Experience (UX), designing products that are simple for people to use, but most importantly, help them to achieve their goals. But what I really care about is shipping cool things, testing new ideas and making a difference to people's lives. You can see a few of the products I've worked on in my [Portfolio](/portfolio).
 </div>
@@ -29,7 +29,7 @@ As we grew up our projects got more ambitious and one of those projects grew int
 Lasuni taught me a lot, but it also taught me how much I didn't know. I had the creative bug, and wanted to learn as much as I could from actual professionals - that's when I found Mind Candy.
 
 #### Mind Candy
-While on holiday in the US, I created a [hand-crafted application to Mind Candy](/work/moshi-monsters) and emailed it to recruitment and [Michael Acton Smith](https://twitter.com/acton), the CEO. Thankfully it was well received with Michael tweeting about my efforts -  landing me an interview at Mind Candy but also at 2 other start-ups. Everything worked out and I landed the gig at Mind Candy - during my time I was given the opportunity to work on a variety of projects from the core game and safety tools to the mobile-first future of Moshi.
+While on holiday in the US, I created a [hand-crafted application to Mind Candy](/work/moshi-monsters) and emailed it to recruitment and [Michael Acton Smith](https://twitter.com/acton), the CEO. Thankfully it was well received with Michael tweeting about my efforts — landing me an interview at Mind Candy but also at 2 other start-ups. Everything worked out and I landed the gig at Mind Candy - during my time I was given the opportunity to work on a variety of projects from the core game and safety tools to the mobile-first future of Moshi.
 
 ![Mind Candy  - 2013](/images/mindcandy.jpg "Mind Candy - 2013")
 
@@ -42,13 +42,16 @@ Working on mobile games, we realised how powerful game mechanics can be in drivi
 
 With our first client we designed, built, shipped and ran [Bupa Boost](/work/bupa-boost) as a live service. With a lot of hard work we kept growing the business and we used our learnings of how these huge businesses work to create Totem, our attempt to productise good company culture. Over my 4 years there I grew my product team to 7 super talented individuals, and we designed and shipped tens of products for some of the biggest companies in the UK.
 
-#### Now
-On the 27th June 2018, I took the heart-wrenching decision to leave Play, and I left the UK to travel with my boyfriend, [Remi](https://instagram.com/remionthego). We're currently somewhere in SE Asia and will be arriving in Australia towards the end of the year. You can follow along with my travels on [Twitter](https://twitter.com/dasaii) or [Instagram](https://instagram.com/dasaii) if you'd like.
+#### Travel
+On the 27th June 2018, I took the heart-wrenching decision to leave Play, and I left the UK to travel with my boyfriend, [Remi](https://instagram.com/remionthego). We had an incredible 6 months travelling around SE Asia and Japan.
 
 ![Chiang Mai - July 2018](/images/travelling.jpg "Chiang Mai - July 2018")
 
+#### Now
+Currently, I'm working at [Deputy](https://deputy.com), helping to simpify shift work for 100,000s of businesses around the world.
+
 #### And outside of work?
-Well, I'm currently full-time travelling/homeless - so there's not much difference! But while not making stuff, I love to travel (clearly), take [bad photos on my phone](https://instagram.com/dasaii), run, watch far too much Netflix. Other important things to note: I'm a Ravenclaw, aspiring Pokemon Master and my favourite film is the Lion King. I get my games fix on-the-go with my Nintendo Switch, I'm currently playing Toad's Treasure Tracker.
+When I'm not making stuff, I love to travel, take [bad photos on my phone](https://instagram.com/dasaii), run, and watch far too much Netflix. Other important things to note: I'm a Ravenclaw, aspiring Pokemon Master and my favourite film is the Lion King. I get my games fix on-the-go with my Nintendo Switch, I'm currently playing Super Mario 3D All Stars.
 
 #### TL;DR
 I like making stuff. I'm also generally a bit of a nerd.
@@ -57,6 +60,7 @@ I like making stuff. I'm also generally a bit of a nerd.
 <h3>Business friends</h3>
 <p style="margin-top:-20px;">I've been lucky enough to have worked with these forward-thinking companies</p>
 <div class="logo_container">
+  <img src="/images/logo/deputy.png" alt="Deputy" title="Deputy" />
   <img src="/images/logo/pwc.png" alt="PricewaterhouseCoopers" title="PricewaterhouseCoopers" />
   <img src="/images/logo/mars.png" alt="Mars" title="Mars" />
   <img src="/images/logo/vodafone.png" alt="Vodafone" title="Vodafone" />
@@ -68,7 +72,6 @@ I like making stuff. I'm also generally a bit of a nerd.
   <img src="/images/logo/volkswagen.png" alt="Volkswagen" title="Volkswagen" />
   <img src="/images/logo/cliffordchance.png" alt="Clifford Chance" title="Clifford Chance" />
   <img src="/images/logo/inmarsat.png" alt="Inmarsat" title="Inmarsat" />
-  <img src="/images/logo/harrow.png" alt="Harrow Council" title="Harrow Council" />
   <img src="/images/logo/societygenerale.png" alt="Société Générale" title="Société Générale" />
   <img src="/images/logo/nedbank.png" alt="Nedbank" title="Nedbank" />
   <img src="/images/logo/mindcandy.png" alt="Mind Candy" title="Mind Candy" />
@@ -202,9 +205,6 @@ I like making stuff. I'm also generally a bit of a nerd.
   </div>
 </div>
 <div class="text_container">
-<h3>How we can work together</h3>
-<p style="margin-top:-20px;">I currently am open to working on small remote projects, either helping with UX or product strategy. <a href="/contact">Get in touch</a> for more information and we can talk about your needs ✨</p>
-
 <h3>You made it to the end - go you!</h3>
 <img src="https://media.giphy.com/media/OcZp0maz6ALok/giphy.gif" style="max-width:400px;" />
 
