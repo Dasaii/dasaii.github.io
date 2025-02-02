@@ -32,7 +32,9 @@ I joined [Mind Candy](http://mindcandy.com) in April 2012 after creating a hand-
 ### What I did
 In my time at Mind Candy I was involved in a wide variety of projects, I started working on community tools, helping to make the task of moderating 80m kids more efficient. Later I worked on revamping the website and the core UI of the game including registration. The bulk of my time was designing and prototyping mobile versions of Moshi Monsters which were unfortunately never released - but i learnt a lot about product management and game design. After working on Moshi Monsters I moved onto [PopJam](/work/popjam), a creative community for kids.
 
+</div>
 ![Moshi Mobile](/images/moshi/moshimobile.png)
+<div class="text_container" markdown="1">
 
 An interesting challenge when working on the UX for the main game was balancing the ease-of-use with the fun - part of the success of Moshi Monsters was exploring the game and discovering exciting new areas that weren't necessarily obvious. Another important aspect was ensuring that we're designing what the kids actually want, and dealing with the specifics of designing kids products (safety, regulations etc).
 

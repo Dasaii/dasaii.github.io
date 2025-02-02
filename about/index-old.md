@@ -8,9 +8,9 @@ title: About
 
 <div class="flex_container">
 <div class="two-third" markdown="1">
-Hello 👋🏼 I'm David , a product designer, currently working at [Deputy](https://deputy.com) in London 🇬🇧. I specialise in creating digital products that help people be their best selves. Whether that's helping to [improve someone's wellbeing](/work/bupa-boost), save some extra money, [learn a new skill](/work/digital-fitness) or [just have fun](/work/moshi-monsters). I truly believe in the power of technology to have a positive impact in people's lives.
+Hello 👋🏼! I'm David , a product designer from the UK, currently working at [Deputy](https://deputy.com) in Sydney, Australia. I specialise in creating digital products that help people be their best selves. Whether that's helping to [improve someone's wellbeing](/work/bupa-boost), save some extra money, [learn a new skill](/work/digital-fitness) or [just have fun](/work/moshi-monsters). I truly believe in the power of technology to have a positive impact in people's lives.
 
-My background is in games and product design, designing products that are simple for people to use, but most importantly, help them to achieve their goals. But what I really care about is shipping cool things, testing new ideas and making a difference to people's lives. You can see a few of the products I've worked on in my [Portfolio](/portfolio).
+My background is in games and User Experience (UX), designing products that are simple for people to use, but most importantly, help them to achieve their goals. But what I really care about is shipping cool things, testing new ideas and making a difference to people's lives. You can see a few of the products I've worked on in my [Portfolio](/portfolio).
 </div>
 <div class="one-third">
 <p><img class="rotate-r" src="/images/me.jpg" alt="It me!" /></p>
@@ -19,34 +19,42 @@ My background is in games and product design, designing products that are simple
 
 <div markdown="1">
 
-### Work history
+### History
 
-#### Deputy, Director Product Design
-##### 2019 – Present
+#### The early days
+I've always been obsessed with games and technology, but it was getting access to the internet that made me realise that I could not just play games, but I could make them too. Online I met other enterprising teens who wanted to make games, forming a community where we'd share our ideas, creations and ultimately all our failures!
 
-Responsbile for all of Product Design at Deputy, a workforce management platform dedicated to improving the world of work one shift at a time. Deputy helps businesses manage scheduling, time tracking, and employee communication, empowering both employers and hourly workers. As we scaled the business to over 1.5 million daily users, I played a key role in shaping intuitive, user-centric experiences that drive efficiency and engagement across a diverse range of industries.
+As we grew up our projects got more ambitious and one of those projects grew into [Lasuni](/work/lasuni). With my internet friends [Jason Bryan](https://www.instagram.com/travelistlife) and [Amber Discko](https://twitter.com/amberdiscko): we designed, shipped, marketed and built an online community. We managed to grow a highly engaged audience, and it helped me to fund my Computer Science degree without any student loans.
 
+Lasuni taught me a lot, but it also taught me how much I didn't know. I had the creative bug, and wanted to learn as much as I could from actual professionals - that's when I found Mind Candy.
 
-#### Play, Chief Product Officer
-##### 2014 – 2018
+#### Mind Candy
+While on holiday in the US, I created a [hand-crafted application to Mind Candy](/work/moshi-monsters) and emailed it to recruitment and [Michael Acton Smith](https://twitter.com/acton), the CEO. Thankfully it was well received with Michael tweeting about my efforts — landing me an interview at Mind Candy but also at 2 other start-ups. Everything worked out and I landed the gig at Mind Candy - during my time I was given the opportunity to work on a variety of projects from the core game and safety tools to the mobile-first future of Moshi.
 
-I co-founded Play with 2 friends from Mind Candy, we used our experience working in mobile games to create engaging products that help build positive behaviors. We grew the business to ~£4 million in revenue annually, while remaining profitable every year without any external investment. I was responsible for all Product and Design, directly managing and mentoring a team of eight. IWe also launched Totem, a platform to improve company culture, which was profitable from day one and grew to tens of thousands of paying users within its first year. Along the way, I helped ship numerous innovative products for some of the UK’s biggest companies, including Bupa, PwC, BT, Mars, and Sainsbury’s.
+![Mind Candy  - 2013](/images/mindcandy.jpg "Mind Candy - 2013")
 
-#### Mind Candy, UX Designer / Product Manager
-##### 2012 – 2014
+At Mind Candy I learned tons: how startups work; what product management is; research (I ran play-testing every week); running an effective team; presenting to stakeholders; and the importance of team culture in building great things. In my last year I led UX and later product management for a new mobile, creative, community - PopJam, where I met Marcus and Dan.
 
-I integrated UX into the game development process for Moshi Monsters, an online game with over 100 million registered users. Later, I product managed PopJam, a creative community for kids, growing the platform from zero to over a million users. PopJam’s success led to its acquisition by SuperAwesome in 2015.
+#### Play
+Working on mobile games, we realised how powerful game mechanics can be in driving behaviours. Play formed on the belief that we could use our games experience to build compelling products to help people and businesses achieve their goals. The dream team was back together with Marcus Thornley (CEO), [Dan Atherton](https://twitter.com/RabidBadger80) (CTO) and myself (CPO) heading up our respective skillsets.
 
-#### Lasuni, Founder
-##### 2008 – 2015
+![Team Play - May 2016](/images/teamplay_2016.jpg "Team Play - May 2016")
 
-Built and ran a free-to-play online community, growing it to over 25,000 players while studying at university. Used the profits to fund my university degree.
+With our first client we designed, built, shipped and ran [Bupa Boost](/work/bupa-boost) as a live service. With a lot of hard work we kept growing the business and we used our learnings of how these huge businesses work to create Totem, our attempt to productise good company culture. Over my 4 years there I grew my product team to 7 super talented individuals, and we designed and shipped tens of products for some of the biggest companies in the UK.
 
-#### Cardiff University, Computer Science (BSc Hons)
-##### 2008 – 2011
+#### Travel
+On the 27th June 2018, I took the heart-wrenching decision to leave Play, and I left the UK to travel with my boyfriend, [Remi](https://instagram.com/remionthego). We had an incredible 6 months travelling around SE Asia and Japan.
 
-I studied Computer Science at university, where I learned the foundations of building great software — an experience that continues to shape my approach as a product designer. Understanding how systems are built allows me to collaborate more effectively with engineers, make informed design decisions, and balance feasibility with quality.
+![Chiang Mai - July 2018](/images/travelling.jpg "Chiang Mai - July 2018")
 
+#### Now
+Currently, I'm working at [Deputy](https://deputy.com), helping to simpify shift work for 100,000s of businesses around the world.
+
+#### And outside of work?
+When I'm not making stuff, I love to travel, take [bad photos on my phone](https://instagram.com/dasaii), run, and watch far too much Netflix. Other important things to note: I'm a Ravenclaw, aspiring Pokemon Master and my favourite film is the Lion King. I get my games fix on-the-go with my Nintendo Switch, I'm currently playing Super Mario 3D All Stars.
+
+#### TL;DR
+I like making stuff. I'm also generally a bit of a nerd.
 </div>
 
 <h3>Business friends</h3>

@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: product
 title: Welcome to my home
 ---
 
 <div class="home_container">
-	{% include nav.html %}
 
 	<div class="text">
-		<h1>Hi, I'm David<br/> and I design<br/> products ✨</h1>
+		<h1>Hi, I'm David and I<br/> design products ✨</h1>
 		<h3>Welcome to my home on the internet</h3>
 	</div>
 
@@ -17,3 +16,28 @@ title: Welcome to my home
 	</div>
 
 </div>
+
+<div class="content_container">
+
+	<h1 class="portfolio-header">Cool products I've worked on 👇</h1>
+	<div class="products">
+
+	  {% for post in site.posts %}
+			<a href="{{ post.url }}" title="{{ post.title }}">
+				<div class="thumbnail {{ post.css }}">
+					<img src="{{ post.thumbnail }}" alt="{{ post.title }}" />
+				</div>
+				<h3>{{ post.title }}</h3>
+				<div class="product-description">{{ post.description }}</div>
+			</a>
+	  {% endfor %}
+	</div>
+	
+  </div>
+  <!-- <a href="/contact" class="more">
+	  <h3>Want more?</h3>
+	  <div class="description">Contact me for my full portfolio</div>
+  </a> -->
+
+
+</div><!-- /.container -->

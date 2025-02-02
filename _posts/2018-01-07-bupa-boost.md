@@ -9,8 +9,8 @@ css: bupaboost
 year: 2014 – 2018
 client: Bupa
 role: Product lead
-websitetitle: Bupa Boost
-websiteurl: https://www.bupaboost.com
+
+
 
 ---
 
@@ -22,7 +22,7 @@ We worked with Bupa to design, develop and run a digital platform to change busi
 ### Background
 Bupa is one of the largest private insurers in the UK serving 32 million customers in 190 countries, they approached us at [Play](/work/play) to discuss what we could do to improve their digital offerings, initially focusing on their corporate and business health insurance.
 
-##### Bupa's research found that:
+#### Bupa's research found that:
 - 85% of UK workers say their employer has a responsibility to look after their health and wellbeing
 - 78% of employees would welcome support from their employer to think about their health and wellbeing
 - 60% of workers admit if they felt happy and well at work they would be more productive
@@ -33,10 +33,6 @@ We began with a 2-week Sprint 0 (design Sprint) to: help us understand the probl
 After building an initial [Marvel](https://marvelapp.com) prototype to share with stakeholders we built an initial MVP version to test within Bupa. From that success we built and ran an agile team with myself as Product lead, 1-2 UX/UI designer, 2-8 developers, 1 project manager and QA. Working closely with Bupa to understand future requirements, pitching feature areas and running the product as a live service. During this time we worked with stakeholders from across the business to allow Bupa Boost to get further integrated in Bupa services.
 
 ### Product
-<div class="youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GszJdhb0oGE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
 Available on iOS, Android (and briefly Windows Phone) - Bupa Boost supports employees to set personal goals, track their progress against friends and colleagues as well as integrating data from other apps and wearables. Employees can also benefit from Bupa’s wider portfolio of health information and services through Bupa Boost.
 
 Employers benefit from aggregated anonymised data allowing them to better understand the health and wellbeing of their workforce. As a result businesses will be able to set challenges through Bupa Boost that aim to address employee needs or hold workplace initiatives on the health issues that matter most to their people. Unlike most PMI (insurance) benefits, Bupa Boost is offered to the whole workforce, meaning that everybody can benefit, not just the privileged few.
@@ -66,10 +62,6 @@ Set challenges, collect badges and reach the top of the leaderboard. Boost makes
 
 <div class="text_container" markdown="1">
 ### Results
-<div class="youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9GH1ci3VWaU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
 Bupa Boost has been very successful for Bupa helping them to change the way they position their products. It was so successful with corporates that it is now offered to SMEs, and a core part of their individual health assessments.
 
 #### Key successes:

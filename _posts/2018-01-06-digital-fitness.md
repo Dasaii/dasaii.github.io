@@ -9,8 +9,6 @@ css: digitalfitness
 year: 2015 – 2017
 client: PwC
 role: Product lead
-websitetitle: Digital Fitness
-websiteurl: https://digital.pwc.com/en/products/digital-fitness.html
 
 ---
 
@@ -36,10 +34,6 @@ We began with a 2-week Sprint 0 (design Sprint) to: help us understand the probl
 After building an initial [Marvel](https://marvelapp.com) prototype to share with stakeholders we built an initial MVP version to test with a PwC client. From that success we built and ran an agile team with myself as Product lead, 1 UX/UI designer, 2 developers, 1 project manager and QA. Working closely with PwC to understand future requirements, pitching feature areas and running the product as a live service. During this time we worked with stakeholders from across the business to allow them to use Digital Fitness for their part of the business.
 
 ### Product
-<div class="youtube">
-<iframe src="https://www.youtube.com/embed/vTT98Z7RRs0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
 We focused on building a platform that could be used by an entire company, truly enabling cultural change. The product was eventually built for iOS and responsive web, and can be deeply customised for each company to meet their needs. There are two core parts to the Digital Fitness Assessment, assess and learn.
 
 #### Assess
